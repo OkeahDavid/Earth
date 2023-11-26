@@ -30,6 +30,19 @@
             border-radius: 10px;
             box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
         }
+        #toggleRotation {
+            position: absolute;
+            top: 10px;
+            left: 10px;
+            z-index: 10;
+            padding: 10px;
+            border: none;
+            border-radius: 5px;
+            background-color: #4CAF50;
+            color: white;
+            font-size: 16px;
+            cursor: pointer;
+        }
         #toggleNotice {
             position: absolute;
             bottom: 10px;
@@ -58,7 +71,7 @@
         Press "Escape" to toggle instructions
     </div>
 
-    <button>Toggle Rotation/Control</button>
+    <button id="toggleRotation">Toggle Rotation/Control</button>
 
     <script type="module" src="./js/script.js"></script>
 
