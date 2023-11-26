@@ -1,0 +1,19 @@
+{
+  "name": "earth",
+  "version": "1.0.0",
+  "description": "Creating a 3D model of the Earth",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "author": "David Okeah",
+  "license": "MIT",
+  "dependencies": {
+    "three": "^0.158.0"
+  },
+  "devDependencies": {
+    "parcel": "^2.10.3"
+  }
+}
