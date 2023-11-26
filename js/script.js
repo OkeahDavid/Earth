@@ -49,9 +49,7 @@ function init() {
         TWO: THREE.TOUCH.DOLLY_PAN
     };
 
-    const toggleButton = document.createElement('button');
-    toggleButton.innerHTML = 'Toggle Rotation/Control';
-    document.body.appendChild(toggleButton);
+    const toggleButton = document.getElementById('toggleRotation');
     toggleButton.addEventListener('click', () => {
         autoRotate = !autoRotate;
         controls.enabled = !autoRotate;
