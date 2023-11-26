@@ -28,4 +28,4 @@ This project is built with the following technologies:
 Feel free to clone the repository and contribute to the project.
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE) file for details.
