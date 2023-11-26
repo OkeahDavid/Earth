@@ -142,7 +142,7 @@
       this[globalName] = mainExports;
     }
   }
-})({"gAbrY":[function(require,module,exports) {
+})({"jKT5W":[function(require,module,exports) {
 var global = arguments[3];
 var HMR_HOST = null;
 var HMR_PORT = null;
@@ -31624,6 +31624,6 @@ exports.getOrigin = getOrigin;
 },{}],"1FwVb":[function(require,module,exports) {
 module.exports = require("23ebf0a06fd8576d").getBundleURL("3ninf") + "moonmap4k.d307304e.jpg" + "?" + Date.now();
 
-},{"23ebf0a06fd8576d":"lgJ39"}]},["gAbrY","4pp4s"], "4pp4s", "parcelRequire5d24")
+},{"23ebf0a06fd8576d":"lgJ39"}]},["jKT5W","4pp4s"], "4pp4s", "parcelRequire5d24")
 
 //# sourceMappingURL=index.4de9b498.js.map
