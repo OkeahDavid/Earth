@@ -25,7 +25,5 @@ This project is built with the following technologies:
 - `Three.js`: A cross-browser JavaScript library and API used to create and display animated 3D computer graphics in a web browser.
 - `Webpack`/`Parcel`: Bundlers for JavaScript, allowing the inclusion of assets such as textures and ensuring the application runs smoothly.
 
-Feel free to clone the repository and contribute to the project.
-
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
