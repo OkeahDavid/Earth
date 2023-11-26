@@ -5,9 +5,71 @@
     <style>
         body { margin: 0; }
         canvas { display: block; }
+        button {
+            position: absolute;
+            top: 10px;
+            left: 10px;
+            z-index: 10;
+            padding: 10px;
+            border: none;
+            border-radius: 5px;
+            background-color: #4CAF50;
+            color: white;
+            font-size: 16px;
+            cursor: pointer;
+        }
+        #instructions {
+            display: none;
+            position: fixed;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            z-index: 100;
+            background-color: rgba(255, 255, 255, 0.8);
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        }
+        #toggleNotice {
+            position: absolute;
+            bottom: 10px;
+            right: 10px;
+            background-color: rgba(0, 0, 0, 0.6);
+            color: white;
+            padding: 5px;
+            border-radius: 5px;
+            font-size: 12px;
+        }
+        button:hover {
+            background-color: #45a049;
+        }
     </style>
 </head>
 <body>
-    <script type="module" src="script.js"></script>
+    <div id="instructions">
+        <h2>Navigation Instructions</h2>
+        <p>To interact with the 3D model, press the green "Toggle Rotation/Control" button first. This enables mouse controls for rotating and zooming.</p>
+        <p>Use your mouse to rotate the Earth and Moon after enabling controls.</p>
+        <p>Scroll to zoom in and out.</p>
+        <p>Press "Escape" to toggle these instructions.</p>
+    </div>
+
+    <div id="toggleNotice">
+        Press "Escape" to toggle instructions
+    </div>
+
+    <button>Toggle Rotation/Control</button>
+
+    <script type="module" src="./js/script.js"></script>
+
+    <script>
+        document.addEventListener('keydown', function(event) {
+            if (event.key === "Escape" || event.key === "F1") {
+                event.preventDefault();
+                var instructions = document.getElementById('instructions');
+                instructions.style.display = instructions.style.display === 'none' ? 'block' : 'none';
+            }
+        });
+    </script>
 </body>
 </html>
