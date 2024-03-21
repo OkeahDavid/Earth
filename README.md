@@ -3,6 +3,9 @@ A 3D representation of the Earth using Three.js and WebGL.
 
 This project provides an interactive 3D model of the Earth and its moon, complete with a textured surface that includes realistic topographical details and cloud cover(for the Earth). Users can rotate the globe, zoom in and out, and explore the Earth's features from any angle.
 
+A live demo can be found below:
+https://lambent-arithmetic-f05abd.netlify.app/
+
 ## Preview
 ![2023-11-26 (6)](https://github.com/OkeahDavid/Earth/assets/82973470/734c9bdf-eacf-4a01-95de-2193f522a5e3)
 
