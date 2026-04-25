@@ -3,7 +3,8 @@
 An interactive 3D globe where you can click on any country to discover random facts and explore country data — featuring 195 countries, local time display, an orbiting moon, and a starfield background.
 
 ## Preview
-![2023-11-26 (6)](https://github.com/OkeahDavid/Earth/assets/82973470/734c9bdf-eacf-4a01-95de-2193f522a5e3)
+<img width="1909" height="895" alt="image" src="https://github.com/user-attachments/assets/1fd62690-be1a-4d1a-bffc-4362455388da" />
+
 
 ## Features
 - **Interactive Globe** — Click any country to view its flag, capital, population, languages, and a random fun fact
