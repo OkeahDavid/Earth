@@ -6,7 +6,7 @@ const GEOJSON_URL = 'https://cdn.jsdelivr.net/npm/world-atlas@2/countries-110m.j
 const EARTH_TEXTURE = new URL('../textures/earthmap10k.jpg', import.meta.url).href;
 const MOON_TEXTURE = new URL('../textures/moonmap4k.jpg', import.meta.url).href;
 
-let globe, moonMesh;
+let globe, moonMesh, sunLight;
 let selectedCountry = null;
 let hoveredCountry = null;
 let autoRotate = true;
@@ -46,11 +46,14 @@ async function init() {
   // Load country polygons
   await loadCountries();
 
-  // Add moon
+  // Add stars, sun lighting, and moon
+  addStars();
+  addDayNightLighting();
   addMoon();
 
-  // Set up UI
+  // Set up UI + keyboard
   setupUI();
+  setupKeyboard();
 
   // Hide loading
   setTimeout(() => {
@@ -347,6 +350,78 @@ function showRandomFact(factsArray) {
   document.getElementById('info-fact-text').textContent = factsArray[idx];
 }
 
+// ── Stars Background ──
+function addStars() {
+  const scene = globe.scene();
+  const starsGeometry = new THREE.BufferGeometry();
+  const starCount = 10000;
+  const positions = new Float32Array(starCount * 3);
+  const sizes = new Float32Array(starCount);
+
+  for (let i = 0; i < starCount; i++) {
+    const radius = 800 + Math.random() * 1200;
+    const theta = Math.random() * Math.PI * 2;
+    const phi = Math.acos(2 * Math.random() - 1);
+    positions[i * 3] = radius * Math.sin(phi) * Math.cos(theta);
+    positions[i * 3 + 1] = radius * Math.sin(phi) * Math.sin(theta);
+    positions[i * 3 + 2] = radius * Math.cos(phi);
+    sizes[i] = 0.5 + Math.random() * 1.5;
+  }
+
+  starsGeometry.setAttribute('position', new THREE.BufferAttribute(positions, 3));
+  starsGeometry.setAttribute('size', new THREE.BufferAttribute(sizes, 1));
+
+  const starsMaterial = new THREE.PointsMaterial({
+    color: 0xffffff,
+    size: 1.2,
+    sizeAttenuation: true,
+    transparent: true,
+    opacity: 0.8
+  });
+
+  const starField = new THREE.Points(starsGeometry, starsMaterial);
+  scene.add(starField);
+}
+
+// ── Day/Night Lighting ──
+function addDayNightLighting() {
+  const scene = globe.scene();
+
+  // Remove default lights and replace with sun-based directional light
+  const existingLights = scene.children.filter(c => c.isLight);
+  existingLights.forEach(l => scene.remove(l));
+
+  // Ambient light (dim — simulates starlight/indirect)
+  const ambient = new THREE.AmbientLight(0x222244, 0.4 * Math.PI);
+  scene.add(ambient);
+
+  // Sun directional light — position based on real time
+  sunLight = new THREE.DirectionalLight(0xffeedd, 1.2 * Math.PI);
+  scene.add(sunLight);
+
+  // Update sun position based on time
+  function updateSunPosition() {
+    const now = new Date();
+    const utcHours = now.getUTCHours() + now.getUTCMinutes() / 60;
+    // Sun longitude: at 12:00 UTC the sun is over 0° longitude
+    const sunLngDeg = (12 - utcHours) * 15;
+    const sunLngRad = sunLngDeg * (Math.PI / 180);
+    // Sun latitude: approximate based on day of year (axial tilt ≈ 23.44°)
+    const dayOfYear = Math.floor((now - new Date(now.getFullYear(), 0, 0)) / 86400000);
+    const sunLatRad = 23.44 * (Math.PI / 180) * Math.sin((2 * Math.PI / 365) * (dayOfYear - 81));
+
+    const dist = 500;
+    sunLight.position.set(
+      dist * Math.cos(sunLatRad) * Math.cos(sunLngRad),
+      dist * Math.sin(sunLatRad),
+      dist * Math.cos(sunLatRad) * Math.sin(sunLngRad)
+    );
+  }
+
+  updateSunPosition();
+  setInterval(updateSunPosition, 60000); // update every minute
+}
+
 // ── Moon ──
 function addMoon() {
   const scene = globe.scene();
@@ -397,6 +472,52 @@ function setupUI() {
 
   // Mark rotate active initially
   document.getElementById('btn-rotate').classList.add('active');
+}
+
+// ── Keyboard Navigation ──
+function setupKeyboard() {
+  document.addEventListener('keydown', (e) => {
+    const pov = globe.pointOfView();
+    const step = 5;
+
+    switch (e.key) {
+      case 'ArrowLeft':
+        globe.pointOfView({ lng: pov.lng - step }, 200);
+        break;
+      case 'ArrowRight':
+        globe.pointOfView({ lng: pov.lng + step }, 200);
+        break;
+      case 'ArrowUp':
+        globe.pointOfView({ lat: Math.min(pov.lat + step, 90) }, 200);
+        break;
+      case 'ArrowDown':
+        globe.pointOfView({ lat: Math.max(pov.lat - step, -90) }, 200);
+        break;
+      case '+':
+      case '=':
+        globe.pointOfView({ altitude: Math.max(pov.altitude * 0.85, 0.5) }, 200);
+        break;
+      case '-':
+        globe.pointOfView({ altitude: Math.min(pov.altitude * 1.15, 10) }, 200);
+        break;
+      case 'Escape':
+        document.getElementById('info-panel').classList.remove('visible');
+        selectedCountry = null;
+        globe
+          .polygonAltitude(() => 0.006)
+          .polygonCapColor(d => {
+            if (d === hoveredCountry) return 'rgba(100, 200, 255, 0.2)';
+            return 'rgba(255, 255, 255, 0)';
+          });
+        break;
+      case ' ':
+        e.preventDefault();
+        autoRotate = !autoRotate;
+        globe.controls().autoRotate = autoRotate;
+        document.getElementById('btn-rotate').classList.toggle('active', autoRotate);
+        break;
+    }
+  });
 }
 
 // ── Start ──
