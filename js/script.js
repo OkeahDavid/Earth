@@ -1,6 +1,5 @@
 import Globe from 'globe.gl';
 import * as THREE from 'three';
-import { trackCountryClick, fetchLeaderboard } from './api.js';
 import countryFacts from '../data/country-facts.json';
 
 const GEOJSON_URL = 'https://cdn.jsdelivr.net/npm/world-atlas@2/countries-110m.json';
@@ -52,9 +51,6 @@ async function init() {
 
   // Set up UI
   setupUI();
-
-  // Load leaderboard
-  refreshLeaderboard();
 
   // Hide loading
   setTimeout(() => {
@@ -291,9 +287,6 @@ function handleCountryClick(polygon, event, { lat, lng }) {
   // Show info panel
   showCountryInfo(code, name);
 
-  // Track the click
-  trackCountryClick(code, name);
-
   // Pause auto-rotate briefly
   globe.controls().autoRotate = false;
 }
@@ -354,29 +347,6 @@ function showRandomFact(factsArray) {
   document.getElementById('info-fact-text').textContent = factsArray[idx];
 }
 
-// ── Leaderboard ──
-async function refreshLeaderboard() {
-  const list = document.getElementById('leaderboard-list');
-  const data = await fetchLeaderboard();
-
-  if (!data || data.length === 0) {
-    list.innerHTML = '<li class="leaderboard-empty">No data yet — start clicking countries!</li>';
-    return;
-  }
-
-  list.innerHTML = data.map((item, i) => {
-    const rankClass = i === 0 ? 'gold' : i === 1 ? 'silver' : i === 2 ? 'bronze' : 'default';
-    const flag = countryFacts[item.country_code]?.flag || '';
-    return `
-      <li class="leaderboard-item">
-        <span class="leaderboard-rank ${rankClass}">${i + 1}</span>
-        <span class="leaderboard-name">${flag} ${item.name}</span>
-        <span class="leaderboard-count">${item.search_count}</span>
-      </li>
-    `;
-  }).join('');
-}
-
 // ── Moon ──
 function addMoon() {
   const scene = globe.scene();
@@ -416,15 +386,6 @@ function setupUI() {
         if (d === hoveredCountry) return 'rgba(100, 200, 255, 0.2)';
         return 'rgba(255, 255, 255, 0)';
       });
-  });
-
-  // Toggle leaderboard
-  document.getElementById('btn-leaderboard').addEventListener('click', () => {
-    const panel = document.getElementById('leaderboard-panel');
-    panel.classList.toggle('visible');
-    if (panel.classList.contains('visible')) {
-      refreshLeaderboard();
-    }
   });
 
   // Toggle auto-rotate
