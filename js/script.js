@@ -17,13 +17,12 @@ let countries = [];
 async function init() {
   const container = document.getElementById('globe-container');
 
-  globe = new Globe(container)
+  globe = new Globe(container, { animateIn: true })
     .globeImageUrl(EARTH_TEXTURE)
     .backgroundColor('rgba(0, 0, 17, 1)')
     .showAtmosphere(true)
     .atmosphereColor('lightskyblue')
     .atmosphereAltitude(0.2)
-    .animateIn(true)
     .polygonAltitude(d => d === selectedCountry ? 0.02 : 0.006)
     .polygonCapColor(d => {
       if (d === selectedCountry) return 'rgba(0, 180, 255, 0.45)';

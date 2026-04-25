@@ -593,7 +593,9 @@ let countries = [];
 // ── Initialize Globe ──
 async function init() {
     const container = document.getElementById("globe-container");
-    globe = new (0, _globeGlDefault.default)(container).globeImageUrl(EARTH_TEXTURE).backgroundColor("rgba(0, 0, 17, 1)").showAtmosphere(true).atmosphereColor("lightskyblue").atmosphereAltitude(0.2).animateIn(true).polygonAltitude((d)=>d === selectedCountry ? 0.02 : 0.006).polygonCapColor((d)=>{
+    globe = new (0, _globeGlDefault.default)(container, {
+        animateIn: true
+    }).globeImageUrl(EARTH_TEXTURE).backgroundColor("rgba(0, 0, 17, 1)").showAtmosphere(true).atmosphereColor("lightskyblue").atmosphereAltitude(0.2).polygonAltitude((d)=>d === selectedCountry ? 0.02 : 0.006).polygonCapColor((d)=>{
         if (d === selectedCountry) return "rgba(0, 180, 255, 0.45)";
         if (d === hoveredCountry) return "rgba(100, 200, 255, 0.2)";
         return "rgba(255, 255, 255, 0)";
