@@ -30,38 +30,6 @@ export function addStars(globe) {
   scene.add(new THREE.Points(starsGeometry, starsMaterial));
 }
 
-export function addDayNightLighting(globe) {
-  const scene = globe.scene();
-
-  // Remove default lights
-  scene.children.filter(c => c.isLight).forEach(l => scene.remove(l));
-
-  // Dim ambient (starlight/indirect)
-  scene.add(new THREE.AmbientLight(0x222244, 0.4 * Math.PI));
-
-  // Sun directional light positioned by real UTC time
-  const sunLight = new THREE.DirectionalLight(0xffeedd, 1.2 * Math.PI);
-  scene.add(sunLight);
-
-  function updateSunPosition() {
-    const now = new Date();
-    const utcHours = now.getUTCHours() + now.getUTCMinutes() / 60;
-    const sunLngRad = ((12 - utcHours) * 15) * (Math.PI / 180);
-    const dayOfYear = Math.floor((now - new Date(now.getFullYear(), 0, 0)) / 86400000);
-    const sunLatRad = 23.44 * (Math.PI / 180) * Math.sin((2 * Math.PI / 365) * (dayOfYear - 81));
-
-    const dist = 500;
-    sunLight.position.set(
-      dist * Math.cos(sunLatRad) * Math.cos(sunLngRad),
-      dist * Math.sin(sunLatRad),
-      dist * Math.cos(sunLatRad) * Math.sin(sunLngRad)
-    );
-  }
-
-  updateSunPosition();
-  setInterval(updateSunPosition, 60000);
-}
-
 export function addMoon(globe) {
   const scene = globe.scene();
   const globeRadius = globe.getGlobeRadius();

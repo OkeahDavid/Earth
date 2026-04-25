@@ -1,6 +1,6 @@
 # Earth
 
-An interactive 3D globe where you can click on any country to discover random facts and explore country data — featuring 195 countries, realistic day/night lighting, an orbiting moon, and a starfield background.
+An interactive 3D globe where you can click on any country to discover random facts and explore country data — featuring 195 countries, local time display, an orbiting moon, and a starfield background.
 
 ## Preview
 ![2023-11-26 (6)](https://github.com/OkeahDavid/Earth/assets/82973470/734c9bdf-eacf-4a01-95de-2193f522a5e3)
@@ -9,7 +9,8 @@ An interactive 3D globe where you can click on any country to discover random fa
 - **Interactive Globe** — Click any country to view its flag, capital, population, languages, and a random fun fact
 - **195 Countries** — Locally stored facts for 195 countries with 5 unique facts each
 - **Country Highlighting** — Hover to highlight borders, click to select with fly-to camera animation
-- **Day/Night Lighting** — Real-time sun position based on UTC time with directional lighting
+- **Local Time** — Shows the selected country's current local time, live-updating every second
+- **Clickable Clock** — Click the clock in the top bar to cycle through 6 time formats (12h, 24h, with date, etc.) — preference saved in localStorage
 - **Stars Background** — 10,000-particle starfield surrounding the globe
 - **Moon Orbit** — Realistic orbiting moon with textured surface
 - **Keyboard Navigation** — Arrow keys to pan, +/- to zoom, Space to toggle rotation, Escape to close
@@ -26,10 +27,11 @@ An interactive 3D globe where you can click on any country to discover random fa
 - **Escape** to close the info panel
 - Click **"Show Another Fact"** to cycle through facts for the selected country
 - Click **"Rotate"** to toggle auto-rotation
+- **Click the clock** to cycle time formats (12h, 24h, date+time, etc.)
 
 ## Tech Stack
 - **[globe.gl](https://globe.gl)** — WebGL globe with built-in country polygon rendering and interaction
-- **[Three.js](https://threejs.org)** — 3D rendering (bundled with globe.gl), used for stars, day/night lighting, and moon orbit
+- **[Three.js](https://threejs.org)** — 3D rendering (bundled with globe.gl), used for stars and moon orbit
 - **[topojson-client](https://github.com/topojson/topojson-client)** — Converts TopoJSON world-atlas data to GeoJSON
 - **[Parcel](https://parceljs.org)** — Bundler for development and production builds
 
@@ -64,7 +66,8 @@ Output goes to the `dist/` directory.
 ├── js/
 │   ├── script.js           # Main entry point (globe init, interactions, UI)
 │   ├── country-map.js      # ISO 3166-1 numeric → alpha-2 country mapping
-│   ├── scene.js            # Stars, day/night lighting, moon orbit
+│   ├── scene.js            # Stars and moon orbit
+│   ├── timezones.js        # ISO alpha-2 → IANA timezone mapping
 │   └── metrics-tracking.js # Analytics tracking
 ├── data/
 │   └── country-facts.json  # Facts database for 195 countries

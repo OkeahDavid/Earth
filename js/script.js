@@ -1,7 +1,8 @@
 import Globe from 'globe.gl';
 import countryFacts from '../data/country-facts.json';
 import COUNTRY_ID_MAP from './country-map.js';
-import { addStars, addDayNightLighting, addMoon } from './scene.js';
+import COUNTRY_TIMEZONES from './timezones.js';
+import { addStars, addMoon } from './scene.js';
 
 const GEOJSON_URL = 'https://cdn.jsdelivr.net/npm/world-atlas@2/countries-110m.json';
 const EARTH_TEXTURE = new URL('../textures/earthmap10k.jpg', import.meta.url).href;
@@ -10,6 +11,7 @@ let globe;
 let selectedCountry = null;
 let hoveredCountry = null;
 let autoRotate = true;
+let countryTimeInterval = null;
 
 // ── Initialize ──
 async function init() {
@@ -41,11 +43,11 @@ async function init() {
   await loadCountries();
 
   addStars(globe);
-  addDayNightLighting(globe);
   addMoon(globe);
 
   setupUI();
   setupKeyboard();
+  startUserClock();
 
   setTimeout(() => {
     document.getElementById('loading').classList.add('hidden');
@@ -109,27 +111,40 @@ function showCountryInfo(code, name) {
   const panel = document.getElementById('info-panel');
   const facts = countryFacts[code];
 
+  // Clear any previous country time ticker
+  if (countryTimeInterval) clearInterval(countryTimeInterval);
+
   if (!facts) {
     document.getElementById('info-name').textContent = name;
-    document.getElementById('info-flag').textContent = '';
+    setFlagImage(code);
     document.getElementById('info-capital').textContent = '—';
     document.getElementById('info-population').textContent = '—';
     document.getElementById('info-continent').textContent = '—';
     document.getElementById('info-languages').textContent = '—';
+    document.getElementById('info-time').textContent = getCountryTime(code);
     document.getElementById('info-fact-text').textContent = 'No facts available yet for this country.';
     panel.classList.add('visible');
+    countryTimeInterval = setInterval(() => {
+      document.getElementById('info-time').textContent = getCountryTime(code);
+    }, 1000);
     return;
   }
 
   document.getElementById('info-name').textContent = facts.name;
-  document.getElementById('info-flag').textContent = facts.flag;
+  setFlagImage(code);
   document.getElementById('info-capital').textContent = facts.capital;
   document.getElementById('info-population').textContent = facts.population;
   document.getElementById('info-continent').textContent = facts.continent;
   document.getElementById('info-languages').textContent = facts.languages.join(', ');
+  document.getElementById('info-time').textContent = getCountryTime(code);
 
   showRandomFact(facts.facts);
   panel.classList.add('visible');
+
+  // Live-update the country time every second
+  countryTimeInterval = setInterval(() => {
+    document.getElementById('info-time').textContent = getCountryTime(code);
+  }, 1000);
 
   document.getElementById('btn-new-fact').onclick = () => showRandomFact(facts.facts);
 }
@@ -146,14 +161,18 @@ function showRandomFact(factsArray) {
 
 // ── Close Panel Helper ──
 function closePanel() {
-  document.getElementById('info-panel').classList.remove('visible');
+  const panel = document.getElementById('info-panel');
+  if (!panel.classList.contains('visible')) return;
+  panel.classList.remove('visible');
   selectedCountry = null;
+  if (countryTimeInterval) { clearInterval(countryTimeInterval); countryTimeInterval = null; }
   globe
     .polygonAltitude(() => 0.006)
     .polygonCapColor(d => {
       if (d === hoveredCountry) return 'rgba(100, 200, 255, 0.2)';
       return 'rgba(255, 255, 255, 0)';
     });
+  globe.pointOfView({ altitude: 2.5 }, 800);
 }
 
 function toggleRotation() {
@@ -171,7 +190,7 @@ function setupUI() {
 
 // ── Keyboard ──
 function setupKeyboard() {
-  document.addEventListener('keydown', (e) => {
+  window.addEventListener('keydown', (e) => {
     const pov = globe.pointOfView();
     const step = 5;
 
@@ -185,6 +204,66 @@ function setupKeyboard() {
       case 'Escape':     closePanel(); break;
       case ' ':          e.preventDefault(); toggleRotation(); break;
     }
+  });
+}
+
+// ── Flag Image ──
+function setFlagImage(code) {
+  const el = document.getElementById('info-flag');
+  if (code) {
+    el.src = `https://flagcdn.com/w80/${code.toLowerCase()}.png`;
+    el.alt = code;
+    el.style.display = '';
+  } else {
+    el.src = '';
+    el.alt = '';
+    el.style.display = 'none';
+  }
+}
+
+// ── Time Formats ──
+const TIME_FORMATS = [
+  { label: '12h',      opts: { hour: '2-digit', minute: '2-digit', hour12: true } },
+  { label: '12h +sec', opts: { hour: '2-digit', minute: '2-digit', second: '2-digit', hour12: true } },
+  { label: '24h',      opts: { hour: '2-digit', minute: '2-digit', hour12: false } },
+  { label: '24h +sec', opts: { hour: '2-digit', minute: '2-digit', second: '2-digit', hour12: false } },
+  { label: 'Date+Time',opts: { year: 'numeric', month: 'short', day: 'numeric', hour: '2-digit', minute: '2-digit', hour12: true } },
+  { label: 'Date+24h', opts: { year: 'numeric', month: 'short', day: 'numeric', hour: '2-digit', minute: '2-digit', hour12: false } },
+];
+let timeFormatIndex = parseInt(localStorage.getItem('earth-time-fmt'), 10) || 0;
+if (timeFormatIndex >= TIME_FORMATS.length) timeFormatIndex = 0;
+
+function formatTime(date, tzOverride) {
+  const opts = { ...TIME_FORMATS[timeFormatIndex].opts };
+  if (tzOverride) opts.timeZone = tzOverride;
+  return new Intl.DateTimeFormat('en-US', opts).format(date);
+}
+
+// ── Country Local Time ──
+function getCountryTime(code) {
+  const tz = COUNTRY_TIMEZONES[code];
+  if (!tz) return '—';
+  try {
+    return formatTime(new Date(), tz);
+  } catch {
+    return '—';
+  }
+}
+
+// ── User Clock ──
+function startUserClock() {
+  const el = document.getElementById('user-clock');
+  function tick() {
+    el.textContent = formatTime(new Date());
+  }
+  tick();
+  setInterval(tick, 1000);
+
+  el.title = 'Click to change time format';
+  el.addEventListener('click', () => {
+    timeFormatIndex = (timeFormatIndex + 1) % TIME_FORMATS.length;
+    localStorage.setItem('earth-time-fmt', timeFormatIndex);
+    tick();
   });
 }
 

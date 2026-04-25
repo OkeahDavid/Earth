@@ -48,9 +48,28 @@ body {
   text-shadow: 0 0 20px rgba(100, 200, 255, 0.5);
 }
 
-.top-actions {
+.top-right {
   display: flex;
-  gap: 10px;
+  align-items: center;
+  gap: 12px;
+}
+
+.user-clock {
+  font-size: 13px;
+  font-weight: 500;
+  color: rgba(255, 255, 255, 0.6);
+  letter-spacing: 1px;
+  font-variant-numeric: tabular-nums;
+  cursor: pointer;
+  padding: 4px 8px;
+  border-radius: 6px;
+  transition: all 0.2s;
+  user-select: none;
+}
+
+.user-clock:hover {
+  color: rgba(255, 255, 255, 0.85);
+  background: rgba(255, 255, 255, 0.06);
 }
 
 /* ── Buttons ── */
@@ -118,7 +137,11 @@ body {
 }
 
 .info-panel-header h2 .flag {
-  font-size: 28px;
+  width: 32px;
+  height: 24px;
+  object-fit: cover;
+  border-radius: 3px;
+  vertical-align: middle;
 }
 
 .info-panel-close {
@@ -155,6 +178,16 @@ body {
   font-size: 14px;
   font-weight: 500;
   margin-top: 2px;
+}
+
+.info-local-time {
+  grid-column: 1 / -1;
+  padding-top: 4px;
+}
+
+.info-local-time span {
+  color: rgba(100, 200, 255, 0.9);
+  font-variant-numeric: tabular-nums;
 }
 
 .info-divider {

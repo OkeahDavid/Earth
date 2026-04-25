@@ -20,7 +20,8 @@
     <!-- Top Bar -->
     <div class="top-bar">
         <div class="app-title">Earth</div>
-        <div class="top-actions">
+        <div class="top-right">
+            <div id="user-clock" class="user-clock"></div>
             <button id="btn-rotate" class="btn" title="Toggle auto-rotation">Rotate</button>
         </div>
     </div>
@@ -28,7 +29,7 @@
     <!-- Country Info Panel -->
     <div id="info-panel" class="info-panel">
         <div class="info-panel-header">
-            <h2><span id="info-flag" class="flag"></span> <span id="info-name"></span></h2>
+            <h2><img id="info-flag" class="flag" alt="" /> <span id="info-name"></span></h2>
             <button id="info-close" class="info-panel-close">&times;</button>
         </div>
         <div class="info-meta">
@@ -36,6 +37,7 @@
             <div class="info-meta-item">Population <span id="info-population"></span></div>
             <div class="info-meta-item">Continent <span id="info-continent"></span></div>
             <div class="info-meta-item">Languages <span id="info-languages"></span></div>
+            <div class="info-meta-item info-local-time">Local Time <span id="info-time"></span></div>
         </div>
         <div class="info-divider"></div>
         <div class="info-fact-label">Random Fact</div>
