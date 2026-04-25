@@ -1,0 +1,3595 @@
+{
+  "AD": {
+    "name": "Andorra",
+    "capital": "Andorra la Vella",
+    "population": "80K",
+    "continent": "Europe",
+    "languages": [
+      "Catalan"
+    ],
+    "currency": "Euro (EUR)",
+    "flag": "🇦🇩",
+    "facts": [
+      "Andorra is the sixth-smallest nation in Europe, nestled in the Pyrenees mountains between France and Spain.",
+      "Andorra has no airport, railway, or motorway — visitors arrive by road.",
+      "Tourism and duty-free shopping account for about 80% of Andorra's GDP.",
+      "Andorra la Vella is the highest capital city in Europe at 1,023 meters.",
+      "Andorra has one of the highest life expectancies in the world at over 83 years."
+    ]
+  },
+  "AE": {
+    "name": "UAE",
+    "capital": "Abu Dhabi",
+    "population": "10M",
+    "continent": "Asia",
+    "languages": [
+      "Arabic"
+    ],
+    "currency": "Dirham (AED)",
+    "flag": "🇦🇪",
+    "facts": [
+      "The Burj Khalifa in Dubai is the tallest building in the world at 828 meters.",
+      "The UAE has the world's first 3D-printed office building.",
+      "Dubai's Palm Jumeirah is the world's largest artificial island.",
+      "The UAE went from a desert economy to one of the wealthiest nations in just 50 years.",
+      "The UAE has seven emirates, each with its own ruler."
+    ]
+  },
+  "AF": {
+    "name": "Afghanistan",
+    "capital": "Kabul",
+    "population": "41M",
+    "continent": "Asia",
+    "languages": [
+      "Pashto",
+      "Dari"
+    ],
+    "currency": "Afghani (AFN)",
+    "flag": "🇦🇫",
+    "facts": [
+      "Afghanistan is home to the famous Bamiyan Valley, once housing two giant Buddha statues carved in the 6th century.",
+      "The national sport of Afghanistan is Buzkashi, a horseback game played with a goat carcass.",
+      "Afghanistan has over 200 days of sunshine per year.",
+      "The country sits at the crossroads of Central and South Asia, making it historically vital for trade routes.",
+      "Afghanistan's Hindu Kush mountain range has peaks over 7,000 meters."
+    ]
+  },
+  "AG": {
+    "name": "Antigua and Barbuda",
+    "capital": "St. John's",
+    "population": "100K",
+    "continent": "North America",
+    "languages": [
+      "English"
+    ],
+    "currency": "East Caribbean Dollar (XCD)",
+    "flag": "🇦🇬",
+    "facts": [
+      "Antigua and Barbuda has 365 beaches — one for every day of the year.",
+      "Cricket is the national sport, and the country has produced world-class players like Viv Richards.",
+      "Barbuda's Frigate Bird Sanctuary is the largest in the Western Hemisphere.",
+      "The country gained independence from Britain in 1981.",
+      "Antigua was once the headquarters of the British Royal Navy in the Caribbean."
+    ]
+  },
+  "AL": {
+    "name": "Albania",
+    "capital": "Tirana",
+    "population": "2.8M",
+    "continent": "Europe",
+    "languages": [
+      "Albanian"
+    ],
+    "currency": "Lek (ALL)",
+    "flag": "🇦🇱",
+    "facts": [
+      "Albania has over 750,000 bunkers built during the communist era — more bunkers per capita than any country.",
+      "Mother Teresa, the Nobel Peace Prize winner, was of Albanian origin.",
+      "Albania was one of the last European countries to allow private car ownership, banning them until 1991.",
+      "The country has a tradition called 'besa' — a code of honor meaning 'to keep the promise.'",
+      "Albania's coast has both the Adriatic and Ionian seas."
+    ]
+  },
+  "AM": {
+    "name": "Armenia",
+    "capital": "Yerevan",
+    "population": "3M",
+    "continent": "Asia",
+    "languages": [
+      "Armenian"
+    ],
+    "currency": "Dram (AMD)",
+    "flag": "🇦🇲",
+    "facts": [
+      "Armenia was the first country to adopt Christianity as a state religion in 301 AD.",
+      "The Armenian alphabet was created in 405 AD and has 39 letters.",
+      "Armenia is home to the world's oldest leather shoe, dating back 5,500 years.",
+      "Chess is a mandatory school subject in Armenia.",
+      "Mount Ararat, where Noah's Ark is said to have landed, is visible from Armenia's capital."
+    ]
+  },
+  "AO": {
+    "name": "Angola",
+    "capital": "Luanda",
+    "population": "36M",
+    "continent": "Africa",
+    "languages": [
+      "Portuguese"
+    ],
+    "currency": "Kwanza (AOA)",
+    "flag": "🇦🇴",
+    "facts": [
+      "Angola is the second-largest oil producer in sub-Saharan Africa.",
+      "The Kalandula Falls in Angola are among the largest waterfalls in Africa by volume.",
+      "Angola's capital Luanda was once ranked the most expensive city in the world for expatriates.",
+      "The country has a giant sable antelope, found nowhere else on Earth.",
+      "Angola shares its name with the Ngola dynasty that once ruled the region."
+    ]
+  },
+  "AR": {
+    "name": "Argentina",
+    "capital": "Buenos Aires",
+    "population": "46M",
+    "continent": "South America",
+    "languages": [
+      "Spanish"
+    ],
+    "currency": "Peso (ARS)",
+    "flag": "🇦🇷",
+    "facts": [
+      "Argentina is named after the Latin word for silver — 'argentum.'",
+      "The tango dance originated in the working-class neighborhoods of Buenos Aires.",
+      "Argentina has the widest avenue in the world — Avenida 9 de Julio has 14 lanes.",
+      "Patagonia in southern Argentina contains one of the world's largest dinosaur fossil sites.",
+      "Argentina was the first country to use fingerprinting as a method of identification."
+    ]
+  },
+  "AT": {
+    "name": "Austria",
+    "capital": "Vienna",
+    "population": "9.1M",
+    "continent": "Europe",
+    "languages": [
+      "German"
+    ],
+    "currency": "Euro (EUR)",
+    "flag": "🇦🇹",
+    "facts": [
+      "Austria's flag is one of the oldest national flags in the world, dating back to 1230.",
+      "Vienna has been ranked the world's most livable city multiple times.",
+      "The croissant was invented in Vienna to celebrate victory over the Ottoman Empire.",
+      "Mozart, Beethoven, Schubert, and Strauss all lived and worked in Vienna.",
+      "Austria is 62% covered by the Alps."
+    ]
+  },
+  "AU": {
+    "name": "Australia",
+    "capital": "Canberra",
+    "population": "26M",
+    "continent": "Oceania",
+    "languages": [
+      "English"
+    ],
+    "currency": "Dollar (AUD)",
+    "flag": "🇦🇺",
+    "facts": [
+      "Australia is both a country and a continent — the only nation to occupy an entire continent.",
+      "The Great Barrier Reef is the largest living structure on Earth, visible from space.",
+      "Australia has more than 10,000 beaches — you could visit a new one every day for 27 years.",
+      "The Australian Alps receive more snowfall than the Swiss Alps.",
+      "Kangaroos and emus can't walk backward, which is why they're on Australia's coat of arms — symbolizing progress."
+    ]
+  },
+  "AZ": {
+    "name": "Azerbaijan",
+    "capital": "Baku",
+    "population": "10M",
+    "continent": "Asia",
+    "languages": [
+      "Azerbaijani"
+    ],
+    "currency": "Manat (AZN)",
+    "flag": "🇦🇿",
+    "facts": [
+      "Azerbaijan is known as the 'Land of Fire' due to natural gas flames that seep from the ground.",
+      "Baku's Flame Towers are shaped like flames and are covered in LED screens.",
+      "Azerbaijan was the first Muslim-majority country to grant women the right to vote in 1918.",
+      "The country has mud volcanoes — more than half of the world's total.",
+      "The Maiden Tower in Baku dates back to the 12th century."
+    ]
+  },
+  "BA": {
+    "name": "Bosnia and Herzegovina",
+    "capital": "Sarajevo",
+    "population": "3.2M",
+    "continent": "Europe",
+    "languages": [
+      "Bosnian",
+      "Croatian",
+      "Serbian"
+    ],
+    "currency": "Convertible Mark (BAM)",
+    "flag": "🇧🇦",
+    "facts": [
+      "Sarajevo hosted the 1984 Winter Olympics.",
+      "The assassination of Archduke Franz Ferdinand in Sarajevo in 1914 triggered World War I.",
+      "Bosnia has the last remaining primeval forest in Europe — Perućica.",
+      "The country has more than 25 natural mineral springs.",
+      "The Stari Most bridge in Mostar, built in 1566, is a UNESCO World Heritage Site."
+    ]
+  },
+  "BB": {
+    "name": "Barbados",
+    "capital": "Bridgetown",
+    "population": "288K",
+    "continent": "North America",
+    "languages": [
+      "English"
+    ],
+    "currency": "Dollar (BBD)",
+    "flag": "🇧🇧",
+    "facts": [
+      "Barbados became a republic in 2021, removing the British monarch as head of state.",
+      "Rihanna was born in Barbados and is a national hero of the country.",
+      "Barbados has the third-oldest parliament in the Commonwealth, established in 1639.",
+      "The island is the birthplace of rum — Mount Gay Distillery has been producing since 1703.",
+      "Barbados is the most easterly Caribbean island."
+    ]
+  },
+  "BD": {
+    "name": "Bangladesh",
+    "capital": "Dhaka",
+    "population": "173M",
+    "continent": "Asia",
+    "languages": [
+      "Bengali"
+    ],
+    "currency": "Taka (BDT)",
+    "flag": "🇧🇩",
+    "facts": [
+      "Bangladesh is one of the most densely populated countries in the world.",
+      "The Sundarbans mangrove forest, shared with India, is the largest in the world and home to Bengal tigers.",
+      "The national anthem of Bangladesh was written by Nobel laureate Rabindranath Tagore.",
+      "Bangladesh is the world's second-largest garment exporter after China.",
+      "Cox's Bazar in Bangladesh has the longest unbroken sea beach in the world at 120 km."
+    ]
+  },
+  "BE": {
+    "name": "Belgium",
+    "capital": "Brussels",
+    "population": "11.6M",
+    "continent": "Europe",
+    "languages": [
+      "Dutch",
+      "French",
+      "German"
+    ],
+    "currency": "Euro (EUR)",
+    "flag": "🇧🇪",
+    "facts": [
+      "Belgium produces over 220,000 tonnes of chocolate per year.",
+      "The saxophone was invented by Belgian Adolphe Sax in the 1840s.",
+      "Belgium has three official languages: Dutch, French, and German.",
+      "Brussels is the de facto capital of the European Union.",
+      "Belgium has more comic book artists per square mile than any other country."
+    ]
+  },
+  "BF": {
+    "name": "Burkina Faso",
+    "capital": "Ouagadougou",
+    "population": "22M",
+    "continent": "Africa",
+    "languages": [
+      "French"
+    ],
+    "currency": "CFA Franc (XOF)",
+    "flag": "🇧🇫",
+    "facts": [
+      "Burkina Faso means 'Land of Honest People' in the local Mossi and Dyula languages.",
+      "FESPACO, Africa's largest film festival, is held in Ouagadougou every two years.",
+      "Burkina Faso was formerly called Upper Volta until 1984.",
+      "The country has one of the youngest populations in the world with a median age around 17.",
+      "Burkina Faso's Ruins of Loropéni are a UNESCO World Heritage Site dating back to the 11th century."
+    ]
+  },
+  "BG": {
+    "name": "Bulgaria",
+    "capital": "Sofia",
+    "population": "6.5M",
+    "continent": "Europe",
+    "languages": [
+      "Bulgarian"
+    ],
+    "currency": "Lev (BGN)",
+    "flag": "🇧🇬",
+    "facts": [
+      "Bulgaria is the oldest country in Europe that hasn't changed its name since it was first established in 681 AD.",
+      "Bulgarians shake their head for 'yes' and nod for 'no' — the opposite of most countries.",
+      "The Cyrillic alphabet was developed in Bulgaria in the 9th century.",
+      "Bulgarian yogurt contains a unique bacteria — Lactobacillus bulgaricus — found nowhere else.",
+      "Bulgaria has been producing rose oil for perfumes for over 300 years."
+    ]
+  },
+  "BH": {
+    "name": "Bahrain",
+    "capital": "Manama",
+    "population": "1.5M",
+    "continent": "Asia",
+    "languages": [
+      "Arabic"
+    ],
+    "currency": "Dinar (BHD)",
+    "flag": "🇧🇭",
+    "facts": [
+      "Bahrain is an archipelago of 33 islands in the Persian Gulf.",
+      "The Tree of Life in Bahrain has survived for over 400 years in the desert with no apparent water source.",
+      "Bahrain was the first Gulf state to discover oil in 1932.",
+      "The Bahrain Grand Prix was the first Formula 1 race held in the Middle East.",
+      "Bahrain's name means 'Two Seas' in Arabic, referring to freshwater springs beneath the sea."
+    ]
+  },
+  "BI": {
+    "name": "Burundi",
+    "capital": "Gitega",
+    "population": "13M",
+    "continent": "Africa",
+    "languages": [
+      "Kirundi",
+      "French"
+    ],
+    "currency": "Franc (BIF)",
+    "flag": "🇧🇮",
+    "facts": [
+      "Burundi is one of the smallest countries in Africa but one of the most densely populated.",
+      "Drumming is a sacred tradition in Burundi — the Royal Drummers of Burundi are world-famous.",
+      "Lake Tanganyika, bordering Burundi, is the second-deepest lake in the world.",
+      "Burundi moved its capital from Bujumbura to Gitega in 2019.",
+      "The country's economy is heavily dependent on coffee, which accounts for most export earnings."
+    ]
+  },
+  "BJ": {
+    "name": "Benin",
+    "capital": "Porto-Novo",
+    "population": "13M",
+    "continent": "Africa",
+    "languages": [
+      "French"
+    ],
+    "currency": "CFA Franc (XOF)",
+    "flag": "🇧🇯",
+    "facts": [
+      "Benin is considered the birthplace of Vodun (Voodoo), still widely practiced there.",
+      "The Kingdom of Dahomey, based in modern Benin, had an all-female military unit — the Dahomey Amazons.",
+      "Benin's Ganvié is the largest lake village in Africa, built entirely on stilts.",
+      "The country was formerly known as Dahomey until 1975.",
+      "Benin has one of the highest rates of twin births in the world."
+    ]
+  },
+  "BN": {
+    "name": "Brunei",
+    "capital": "Bandar Seri Begawan",
+    "population": "450K",
+    "continent": "Asia",
+    "languages": [
+      "Malay"
+    ],
+    "currency": "Dollar (BND)",
+    "flag": "🇧🇳",
+    "facts": [
+      "Brunei's Sultan is one of the wealthiest people in the world.",
+      "The country has no income tax for its citizens.",
+      "Brunei's Istana Nurul Iman is the largest residential palace in the world with 1,788 rooms.",
+      "Brunei is one of the smallest countries in Asia, located on the island of Borneo.",
+      "Oil and gas account for over 90% of Brunei's export earnings."
+    ]
+  },
+  "BO": {
+    "name": "Bolivia",
+    "capital": "Sucre",
+    "population": "12M",
+    "continent": "South America",
+    "languages": [
+      "Spanish",
+      "Quechua",
+      "Aymara"
+    ],
+    "currency": "Boliviano (BOB)",
+    "flag": "🇧🇴",
+    "facts": [
+      "Bolivia has 37 official languages, one of the most in any country.",
+      "The Salar de Uyuni is the world's largest salt flat, covering 10,582 square kilometers.",
+      "La Paz, Bolivia's administrative capital, is the highest capital city in the world at 3,640 meters.",
+      "Bolivia is named after Simón Bolívar, the South American independence leader.",
+      "Bolivia is one of only two landlocked countries in South America."
+    ]
+  },
+  "BR": {
+    "name": "Brazil",
+    "capital": "Brasília",
+    "population": "216M",
+    "continent": "South America",
+    "languages": [
+      "Portuguese"
+    ],
+    "currency": "Real (BRL)",
+    "flag": "🇧🇷",
+    "facts": [
+      "Brazil is the only Portuguese-speaking country in the Americas.",
+      "The Amazon Rainforest produces about 20% of the world's oxygen.",
+      "Brazil has won the FIFA World Cup a record 5 times.",
+      "São Paulo has the largest Japanese population outside Japan.",
+      "Brazil's coastline stretches over 7,400 km — longer than the distance from New York to London."
+    ]
+  },
+  "BS": {
+    "name": "Bahamas",
+    "capital": "Nassau",
+    "population": "410K",
+    "continent": "North America",
+    "languages": [
+      "English"
+    ],
+    "currency": "Dollar (BSD)",
+    "flag": "🇧🇸",
+    "facts": [
+      "The Bahamas consists of over 700 islands and cays, but only about 30 are inhabited.",
+      "The swimming pigs of Exuma have become a major tourist attraction.",
+      "The Bahamas has the third-largest barrier reef in the world.",
+      "Columbus made his first landfall in the New World on San Salvador island in the Bahamas.",
+      "Dean's Blue Hole in the Bahamas is the deepest known saltwater blue hole at over 200 meters."
+    ]
+  },
+  "BT": {
+    "name": "Bhutan",
+    "capital": "Thimphu",
+    "population": "780K",
+    "continent": "Asia",
+    "languages": [
+      "Dzongkha"
+    ],
+    "currency": "Ngultrum (BTN)",
+    "flag": "🇧🇹",
+    "facts": [
+      "Bhutan measures national success by Gross National Happiness instead of GDP.",
+      "Bhutan is the only carbon-negative country in the world, absorbing more CO2 than it produces.",
+      "Television and the internet were not introduced in Bhutan until 1999.",
+      "Archery is the national sport of Bhutan.",
+      "Bhutan's Tiger's Nest Monastery clings to a cliffside 3,000 meters above sea level."
+    ]
+  },
+  "BW": {
+    "name": "Botswana",
+    "capital": "Gaborone",
+    "population": "2.4M",
+    "continent": "Africa",
+    "languages": [
+      "English",
+      "Setswana"
+    ],
+    "currency": "Pula (BWP)",
+    "flag": "🇧🇼",
+    "facts": [
+      "Botswana's Okavango Delta is the world's largest inland delta and a UNESCO World Heritage Site.",
+      "Botswana has one of the highest elephant populations in the world — over 130,000.",
+      "The country is one of Africa's most stable democracies since independence in 1966.",
+      "Botswana's diamond industry makes it one of the wealthiest countries in Africa per capita.",
+      "The Kalahari Desert covers about 70% of Botswana's land area."
+    ]
+  },
+  "BY": {
+    "name": "Belarus",
+    "capital": "Minsk",
+    "population": "9.4M",
+    "continent": "Europe",
+    "languages": [
+      "Belarusian",
+      "Russian"
+    ],
+    "currency": "Ruble (BYN)",
+    "flag": "🇧🇾",
+    "facts": [
+      "Belarus is one of the most forested countries in Europe — about 40% is covered by trees.",
+      "The European bison, once nearly extinct, roams free in Belarus's Białowieża Forest.",
+      "Belarus means 'White Russia' in its language.",
+      "Minsk was almost entirely rebuilt after being destroyed in World War II.",
+      "Belarus has one of the highest literacy rates in the world at over 99%."
+    ]
+  },
+  "BZ": {
+    "name": "Belize",
+    "capital": "Belmopan",
+    "population": "410K",
+    "continent": "North America",
+    "languages": [
+      "English"
+    ],
+    "currency": "Dollar (BZD)",
+    "flag": "🇧🇿",
+    "facts": [
+      "Belize is the only Central American country where English is the official language.",
+      "The Great Blue Hole off Belize's coast is a giant marine sinkhole over 300 meters across and 125 meters deep.",
+      "Belize has the largest cave system in Central America.",
+      "The Belize Barrier Reef is the second largest in the world after Australia's.",
+      "Ancient Maya ruins like Caracol and Xunantunich are found throughout Belize."
+    ]
+  },
+  "CA": {
+    "name": "Canada",
+    "capital": "Ottawa",
+    "population": "40M",
+    "continent": "North America",
+    "languages": [
+      "English",
+      "French"
+    ],
+    "currency": "Dollar (CAD)",
+    "flag": "🇨🇦",
+    "facts": [
+      "Canada has the longest coastline in the world at over 202,080 km.",
+      "Canada has more lakes than all other countries combined.",
+      "The Trans-Canada Highway is one of the longest national highways in the world at 7,821 km.",
+      "Canada produces 71% of the world's maple syrup.",
+      "The Canadian territory of Nunavut is larger than Western Europe but has a population of only about 40,000."
+    ]
+  },
+  "CD": {
+    "name": "DR Congo",
+    "capital": "Kinshasa",
+    "population": "102M",
+    "continent": "Africa",
+    "languages": [
+      "French"
+    ],
+    "currency": "Franc (CDF)",
+    "flag": "🇨🇩",
+    "facts": [
+      "The Congo River is the deepest river in the world, reaching depths of over 220 meters.",
+      "DR Congo contains over half of Africa's tropical rainforest.",
+      "The country has massive deposits of coltan, essential for making smartphones and laptops.",
+      "Kinshasa and Brazzaville are the two closest capital cities in the world, separated only by the Congo River.",
+      "DR Congo is the largest country in sub-Saharan Africa."
+    ]
+  },
+  "CF": {
+    "name": "Central African Republic",
+    "capital": "Bangui",
+    "population": "5M",
+    "continent": "Africa",
+    "languages": [
+      "French",
+      "Sango"
+    ],
+    "currency": "CFA Franc (XAF)",
+    "flag": "🇨🇫",
+    "facts": [
+      "The Central African Republic is home to lowland gorillas and forest elephants.",
+      "Dzanga-Sangha is one of the best places in Africa to see western lowland gorillas in the wild.",
+      "The CAR has some of the richest diamond deposits in Africa.",
+      "The Ubangi River forms the southern border and is a major tributary of the Congo.",
+      "The country's flag uniquely combines Pan-African and French Tricolore colors."
+    ]
+  },
+  "CG": {
+    "name": "Republic of the Congo",
+    "capital": "Brazzaville",
+    "population": "6M",
+    "continent": "Africa",
+    "languages": [
+      "French"
+    ],
+    "currency": "CFA Franc (XAF)",
+    "flag": "🇨🇬",
+    "facts": [
+      "Brazzaville and Kinshasa (DR Congo) face each other across the Congo River — the closest capital cities in the world.",
+      "The Republic of the Congo has some of the largest intact rainforests in Africa.",
+      "The country is a major oil producer in Central Africa.",
+      "The Batéké Plateau in the south has unique grasslands and deep canyons.",
+      "Congo-Brazzaville was the first African country to adopt a Marxist government in 1970."
+    ]
+  },
+  "CH": {
+    "name": "Switzerland",
+    "capital": "Bern",
+    "population": "8.8M",
+    "continent": "Europe",
+    "languages": [
+      "German",
+      "French",
+      "Italian",
+      "Romansh"
+    ],
+    "currency": "Franc (CHF)",
+    "flag": "🇨🇭",
+    "facts": [
+      "Switzerland has four official languages: German, French, Italian, and Romansh.",
+      "Switzerland hasn't been in a war since 1815, maintaining armed neutrality.",
+      "The country has enough nuclear bunker space to shelter its entire population.",
+      "The Swiss consume more chocolate per capita than any other nation — about 10 kg per person per year.",
+      "Switzerland's flag is one of only two square sovereign-state flags (the other is Vatican City)."
+    ]
+  },
+  "CI": {
+    "name": "Côte d'Ivoire",
+    "capital": "Yamoussoukro",
+    "population": "28M",
+    "continent": "Africa",
+    "languages": [
+      "French"
+    ],
+    "currency": "CFA Franc (XOF)",
+    "flag": "🇨🇮",
+    "facts": [
+      "Côte d'Ivoire is the world's largest producer of cocoa beans.",
+      "The Basilica of Our Lady of Peace in Yamoussoukro is the largest church in the world.",
+      "Abidjan is the economic capital and largest city, despite Yamoussoukro being the official capital.",
+      "The country's name literally means 'Ivory Coast' and it requests not to be translated.",
+      "Côte d'Ivoire has won two Africa Cup of Nations football titles."
+    ]
+  },
+  "CL": {
+    "name": "Chile",
+    "capital": "Santiago",
+    "population": "19.5M",
+    "continent": "South America",
+    "languages": [
+      "Spanish"
+    ],
+    "currency": "Peso (CLP)",
+    "flag": "🇨🇱",
+    "facts": [
+      "Chile is the longest north-south country in the world, stretching 4,300 km.",
+      "The Atacama Desert in Chile is the driest place on Earth — some areas haven't seen rain in over 400 years.",
+      "Chile has the world's largest swimming pool at the San Alfonso del Mar resort — over 1 km long.",
+      "Easter Island (Rapa Nui), with its famous Moai statues, belongs to Chile.",
+      "Chile was the first South American country to legalize same-sex marriage."
+    ]
+  },
+  "CM": {
+    "name": "Cameroon",
+    "capital": "Yaoundé",
+    "population": "28M",
+    "continent": "Africa",
+    "languages": [
+      "French",
+      "English"
+    ],
+    "currency": "CFA Franc (XAF)",
+    "flag": "🇨🇲",
+    "facts": [
+      "Cameroon is called 'Africa in miniature' because it contains all of Africa's major climates and vegetation.",
+      "Mount Cameroon is the highest peak in West Africa and is an active volcano.",
+      "The name 'Cameroon' comes from Portuguese explorers who named it 'Rio dos Camarões' (River of Shrimp).",
+      "Cameroon has over 250 different ethnic groups.",
+      "Cameroon's football team, the Indomitable Lions, was the first African team to reach a World Cup quarter-final."
+    ]
+  },
+  "CN": {
+    "name": "China",
+    "capital": "Beijing",
+    "population": "1.4B",
+    "continent": "Asia",
+    "languages": [
+      "Mandarin"
+    ],
+    "currency": "Yuan (CNY)",
+    "flag": "🇨🇳",
+    "facts": [
+      "The Great Wall of China stretches over 21,000 km and took more than 2,000 years to build.",
+      "China invented paper, printing, gunpowder, and the compass — known as the Four Great Inventions.",
+      "All pandas in the world belong to China — those in foreign zoos are on loan.",
+      "China has the world's fastest commercial train — the Shanghai Maglev reaches 431 km/h.",
+      "The Terracotta Army in Xi'an has over 8,000 unique soldier statues, each with a different face."
+    ]
+  },
+  "CO": {
+    "name": "Colombia",
+    "capital": "Bogotá",
+    "population": "52M",
+    "continent": "South America",
+    "languages": [
+      "Spanish"
+    ],
+    "currency": "Peso (COP)",
+    "flag": "🇨🇴",
+    "facts": [
+      "Colombia is the only South American country with coastlines on both the Pacific and Caribbean.",
+      "Colombia produces more emeralds than any other country — about 70-90% of the world's supply.",
+      "The country is named after Christopher Columbus, though he never set foot there.",
+      "Colombia is the second most biodiverse country in the world after Brazil.",
+      "Bogotá's Ciclovía closes 120 km of roads to cars every Sunday for cyclists and pedestrians."
+    ]
+  },
+  "CR": {
+    "name": "Costa Rica",
+    "capital": "San José",
+    "population": "5.2M",
+    "continent": "North America",
+    "languages": [
+      "Spanish"
+    ],
+    "currency": "Colón (CRC)",
+    "flag": "🇨🇷",
+    "facts": [
+      "Costa Rica has no army — it was abolished in 1948 and the budget redirected to education and healthcare.",
+      "The country contains 5% of the world's biodiversity despite being only 0.03% of the planet's surface.",
+      "Costa Rica consistently ranks among the happiest countries in the world.",
+      "'Pura Vida' (Pure Life) is the national motto and greeting.",
+      "Costa Rica generates over 98% of its electricity from renewable sources."
+    ]
+  },
+  "CU": {
+    "name": "Cuba",
+    "capital": "Havana",
+    "population": "11M",
+    "continent": "North America",
+    "languages": [
+      "Spanish"
+    ],
+    "currency": "Peso (CUP)",
+    "flag": "🇨🇺",
+    "facts": [
+      "Cuba has one of the highest literacy rates in the world at 99.8%.",
+      "Classic American cars from the 1950s still fill Cuban streets because of a decades-long trade embargo.",
+      "Cuba has more doctors per capita than most developed nations.",
+      "The island was the first place Christopher Columbus landed in the Americas in 1492.",
+      "Cuban cigars are considered the finest in the world due to the island's unique soil."
+    ]
+  },
+  "CV": {
+    "name": "Cabo Verde",
+    "capital": "Praia",
+    "population": "590K",
+    "continent": "Africa",
+    "languages": [
+      "Portuguese"
+    ],
+    "currency": "Escudo (CVE)",
+    "flag": "🇨🇻",
+    "facts": [
+      "Cabo Verde is a volcanic archipelago of 10 islands off the west coast of Africa.",
+      "The islands were uninhabited until Portuguese settlers arrived in the 15th century.",
+      "Cesária Évora, the 'Barefoot Diva,' brought Cabo Verdean music to international fame.",
+      "Cabo Verde has one of the most stable democracies in Africa.",
+      "The country's name means 'Green Cape' in Portuguese, though the islands are mostly arid."
+    ]
+  },
+  "CY": {
+    "name": "Cyprus",
+    "capital": "Nicosia",
+    "population": "1.2M",
+    "continent": "Europe",
+    "languages": [
+      "Greek",
+      "Turkish"
+    ],
+    "currency": "Euro (EUR)",
+    "flag": "🇨🇾",
+    "facts": [
+      "Nicosia is the last divided capital in the world, split between Greek and Turkish Cypriots.",
+      "Cyprus is the third-largest island in the Mediterranean Sea.",
+      "According to Greek mythology, Aphrodite, the goddess of love, was born on the shores of Cyprus.",
+      "Cyprus has been inhabited for over 10,000 years.",
+      "Halloumi cheese originated in Cyprus and is a major export product."
+    ]
+  },
+  "CZ": {
+    "name": "Czechia",
+    "capital": "Prague",
+    "population": "10.8M",
+    "continent": "Europe",
+    "languages": [
+      "Czech"
+    ],
+    "currency": "Koruna (CZK)",
+    "flag": "🇨🇿",
+    "facts": [
+      "Czechia has the highest beer consumption per capita in the world.",
+      "Prague Castle is the largest ancient castle in the world according to Guinness World Records.",
+      "The word 'robot' was coined by Czech writer Karel Čapek in 1920.",
+      "The soft contact lens was invented by Czech chemist Otto Wichterle.",
+      "Czechia is one of the least religious countries in the world."
+    ]
+  },
+  "DE": {
+    "name": "Germany",
+    "capital": "Berlin",
+    "population": "84M",
+    "continent": "Europe",
+    "languages": [
+      "German"
+    ],
+    "currency": "Euro (EUR)",
+    "flag": "🇩🇪",
+    "facts": [
+      "Germany has over 1,500 different beers and hosts the world-famous Oktoberfest.",
+      "The printing press was invented by Johannes Gutenberg in Mainz, Germany around 1440.",
+      "Germany's Autobahn has sections with no speed limit.",
+      "Berlin has more bridges than Venice — approximately 960.",
+      "Germany is the birthplace of Kindergarten — the word means 'children's garden.'"
+    ]
+  },
+  "DJ": {
+    "name": "Djibouti",
+    "capital": "Djibouti",
+    "population": "1M",
+    "continent": "Africa",
+    "languages": [
+      "French",
+      "Arabic"
+    ],
+    "currency": "Franc (DJF)",
+    "flag": "🇩🇯",
+    "facts": [
+      "Djibouti sits at the strategic Bab el-Mandeb strait, one of the busiest shipping lanes in the world.",
+      "Lake Assal in Djibouti is the lowest point in Africa at 155 meters below sea level.",
+      "Several countries including the US, China, France, and Japan maintain military bases in Djibouti.",
+      "Djibouti is one of the hottest countries on Earth with temperatures often exceeding 40°C.",
+      "The country is roughly the size of New Jersey."
+    ]
+  },
+  "DK": {
+    "name": "Denmark",
+    "capital": "Copenhagen",
+    "population": "5.9M",
+    "continent": "Europe",
+    "languages": [
+      "Danish"
+    ],
+    "currency": "Krone (DKK)",
+    "flag": "🇩🇰",
+    "facts": [
+      "Denmark's flag (Dannebrog) is the oldest state flag in the world still in use, dating to 1219.",
+      "LEGO was invented in Denmark — the name comes from 'leg godt' meaning 'play well.'",
+      "No point in Denmark is more than 52 km from the sea.",
+      "Denmark is consistently ranked as one of the happiest countries in the world.",
+      "The concept of 'hygge' — Danish coziness and comfortable living — has become famous worldwide."
+    ]
+  },
+  "DM": {
+    "name": "Dominica",
+    "capital": "Roseau",
+    "population": "72K",
+    "continent": "North America",
+    "languages": [
+      "English"
+    ],
+    "currency": "East Caribbean Dollar (XCD)",
+    "flag": "🇩🇲",
+    "facts": [
+      "Dominica is known as the 'Nature Isle of the Caribbean' for its lush rainforests.",
+      "Dominica's flag features a Sisserou parrot, the national bird found only on the island.",
+      "Boiling Lake in Dominica is the second-largest thermally active lake in the world.",
+      "Dominica has 365 rivers — one for each day of the year.",
+      "The island was the last Caribbean island to be colonized by Europeans due to fierce resistance by the Kalinago people."
+    ]
+  },
+  "DO": {
+    "name": "Dominican Republic",
+    "capital": "Santo Domingo",
+    "population": "11M",
+    "continent": "North America",
+    "languages": [
+      "Spanish"
+    ],
+    "currency": "Peso (DOP)",
+    "flag": "🇩🇴",
+    "facts": [
+      "Santo Domingo is the oldest continuously inhabited European settlement in the Americas, founded in 1496.",
+      "The Dominican Republic shares the island of Hispaniola with Haiti.",
+      "The country has produced more Major League Baseball players per capita than any other nation.",
+      "Pico Duarte is the highest peak in the Caribbean at 3,098 meters.",
+      "Larimar, a rare blue gemstone, is found only in the Dominican Republic."
+    ]
+  },
+  "DZ": {
+    "name": "Algeria",
+    "capital": "Algiers",
+    "population": "45M",
+    "continent": "Africa",
+    "languages": [
+      "Arabic",
+      "Berber",
+      "French"
+    ],
+    "currency": "Dinar (DZD)",
+    "flag": "🇩🇿",
+    "facts": [
+      "Algeria is the largest country in Africa by area.",
+      "About 80% of Algeria's land area is the Sahara Desert.",
+      "The ancient Roman city of Timgad in Algeria is a UNESCO World Heritage Site.",
+      "Algeria gained independence from France in 1962 after a brutal 8-year war.",
+      "The country has the 16th-largest oil reserves in the world."
+    ]
+  },
+  "EC": {
+    "name": "Ecuador",
+    "capital": "Quito",
+    "population": "18M",
+    "continent": "South America",
+    "languages": [
+      "Spanish"
+    ],
+    "currency": "US Dollar (USD)",
+    "flag": "🇪🇨",
+    "facts": [
+      "Ecuador is named after the equator, which runs through the country.",
+      "The Galápagos Islands, belonging to Ecuador, inspired Darwin's theory of evolution.",
+      "Ecuador was the first country to constitutionally recognize the rights of nature.",
+      "Panama hats actually originate from Ecuador, not Panama.",
+      "Ecuador uses the US dollar as its official currency."
+    ]
+  },
+  "EE": {
+    "name": "Estonia",
+    "capital": "Tallinn",
+    "population": "1.3M",
+    "continent": "Europe",
+    "languages": [
+      "Estonian"
+    ],
+    "currency": "Euro (EUR)",
+    "flag": "🇪🇪",
+    "facts": [
+      "Estonia is one of the most digitally advanced countries — citizens can vote, pay taxes, and sign documents online.",
+      "Skype was originally created by Estonian developers.",
+      "Estonia has more startups per capita than most European countries.",
+      "Tallinn's Old Town is one of the best-preserved medieval cities in Europe.",
+      "Estonia's e-Residency program allows anyone in the world to start an EU-based business online."
+    ]
+  },
+  "EG": {
+    "name": "Egypt",
+    "capital": "Cairo",
+    "population": "105M",
+    "continent": "Africa",
+    "languages": [
+      "Arabic"
+    ],
+    "currency": "Pound (EGP)",
+    "flag": "🇪🇬",
+    "facts": [
+      "The Great Pyramid of Giza was the tallest man-made structure for nearly 4,000 years.",
+      "Ancient Egyptians invented one of the first writing systems — hieroglyphics.",
+      "Egypt's Suez Canal connects the Mediterranean Sea to the Red Sea and handles 12% of global trade.",
+      "Cairo is the largest city in Africa and the Arab world.",
+      "Cleopatra lived closer in time to the moon landing than to the construction of the Great Pyramid."
+    ]
+  },
+  "ER": {
+    "name": "Eritrea",
+    "capital": "Asmara",
+    "population": "3.6M",
+    "continent": "Africa",
+    "languages": [
+      "Tigrinya",
+      "Arabic"
+    ],
+    "currency": "Nakfa (ERN)",
+    "flag": "🇪🇷",
+    "facts": [
+      "Asmara's Art Deco architecture earned it a UNESCO World Heritage Site designation.",
+      "Eritrea gained independence from Ethiopia in 1993 after a 30-year war.",
+      "The Dahlak Archipelago off Eritrea's coast has pristine coral reefs and over 200 islands.",
+      "Eritrea has nine recognized ethnic groups, each with its own language.",
+      "The country's name comes from the Greek word 'Erythra,' meaning 'red,' referring to the Red Sea."
+    ]
+  },
+  "ES": {
+    "name": "Spain",
+    "capital": "Madrid",
+    "population": "48M",
+    "continent": "Europe",
+    "languages": [
+      "Spanish"
+    ],
+    "currency": "Euro (EUR)",
+    "flag": "🇪🇸",
+    "facts": [
+      "Spain's La Tomatina festival involves throwing over 150,000 tomatoes in a town-wide food fight.",
+      "Spain has the second-highest number of UNESCO World Heritage Sites in the world.",
+      "The Spanish Steps are actually in Rome — but the Spanish language is the 4th most spoken in the world.",
+      "Spain's tradition of siesta (afternoon nap) is still practiced in many regions.",
+      "The Sagrada Família in Barcelona has been under construction since 1882."
+    ]
+  },
+  "ET": {
+    "name": "Ethiopia",
+    "capital": "Addis Ababa",
+    "population": "126M",
+    "continent": "Africa",
+    "languages": [
+      "Amharic"
+    ],
+    "currency": "Birr (ETB)",
+    "flag": "🇪🇹",
+    "facts": [
+      "Ethiopia is the only African country that was never colonized.",
+      "Ethiopia follows a unique calendar that is 7-8 years behind the Gregorian calendar and has 13 months.",
+      "Coffee was discovered in Ethiopia — legend says a goat herder noticed his goats dancing after eating coffee berries.",
+      "Lucy, one of the oldest known human ancestors (3.2 million years), was found in Ethiopia.",
+      "Ethiopia's Danakil Depression is one of the hottest inhabited places on Earth."
+    ]
+  },
+  "FI": {
+    "name": "Finland",
+    "capital": "Helsinki",
+    "population": "5.6M",
+    "continent": "Europe",
+    "languages": [
+      "Finnish",
+      "Swedish"
+    ],
+    "currency": "Euro (EUR)",
+    "flag": "🇫🇮",
+    "facts": [
+      "Finland has over 3 million saunas for a population of 5.6 million — roughly one per household.",
+      "Finland is known as the 'Land of a Thousand Lakes' but actually has 188,000 lakes.",
+      "Finland's education system is ranked among the best in the world, with no standardized tests.",
+      "Finland was the first country in Europe to give women the right to vote in 1906.",
+      "Santa Claus is officially recognized as living in Rovaniemi, Finland."
+    ]
+  },
+  "FJ": {
+    "name": "Fiji",
+    "capital": "Suva",
+    "population": "930K",
+    "continent": "Oceania",
+    "languages": [
+      "English",
+      "Fijian",
+      "Hindi"
+    ],
+    "currency": "Dollar (FJD)",
+    "flag": "🇫🇯",
+    "facts": [
+      "Fiji consists of over 330 islands, of which about 110 are permanently inhabited.",
+      "Fiji was one of the first places in the world to see each new day due to its proximity to the International Date Line.",
+      "The traditional Fijian drink kava is made from the root of a pepper plant and has mild sedative effects.",
+      "Fiji's rugby sevens team won the country's first Olympic gold medal in 2016.",
+      "The Great Astrolabe Reef surrounding Fiji is one of the largest barrier reefs in the world."
+    ]
+  },
+  "FM": {
+    "name": "Micronesia",
+    "capital": "Palikir",
+    "population": "115K",
+    "continent": "Oceania",
+    "languages": [
+      "English"
+    ],
+    "currency": "US Dollar (USD)",
+    "flag": "🇫🇲",
+    "facts": [
+      "Micronesia consists of over 600 islands spread across the western Pacific Ocean.",
+      "Nan Madol, an ancient city built on artificial islands, is sometimes called the 'Venice of the Pacific.'",
+      "Micronesia has some of the best wreck diving in the world, from WWII-era ships in Chuuk Lagoon.",
+      "The country uses the US dollar as its official currency.",
+      "Traditional navigation using stars, wave patterns, and bird flight is still practiced."
+    ]
+  },
+  "FR": {
+    "name": "France",
+    "capital": "Paris",
+    "population": "68M",
+    "continent": "Europe",
+    "languages": [
+      "French"
+    ],
+    "currency": "Euro (EUR)",
+    "flag": "🇫🇷",
+    "facts": [
+      "France is the most visited country in the world with over 89 million tourists annually.",
+      "The Eiffel Tower was meant to be temporary — it was built for the 1889 World's Fair.",
+      "France has the most time zones of any country (12) due to its overseas territories.",
+      "French law requires that at least 40% of music on French radio must be of French origin.",
+      "The Louvre in Paris is the most visited art museum in the world."
+    ]
+  },
+  "GA": {
+    "name": "Gabon",
+    "capital": "Libreville",
+    "population": "2.3M",
+    "continent": "Africa",
+    "languages": [
+      "French"
+    ],
+    "currency": "CFA Franc (XAF)",
+    "flag": "🇬🇦",
+    "facts": [
+      "About 88% of Gabon is covered by tropical rainforest.",
+      "Gabon has 13 national parks covering 11% of the country's land area.",
+      "Lopé National Park is a UNESCO World Heritage Site with both rainforest and savanna.",
+      "Gabon is one of the most urbanized countries in Africa, with over 85% living in cities.",
+      "Albert Schweitzer built his famous hospital in Lambaréné, Gabon in 1913."
+    ]
+  },
+  "GB": {
+    "name": "United Kingdom",
+    "capital": "London",
+    "population": "67M",
+    "continent": "Europe",
+    "languages": [
+      "English"
+    ],
+    "currency": "Pound (GBP)",
+    "flag": "🇬🇧",
+    "facts": [
+      "The British Empire was the largest empire in history, covering about 25% of the world's land.",
+      "London's Big Ben is actually the name of the bell, not the clock tower.",
+      "The UK invented the World Wide Web — Tim Berners-Lee created it in 1989.",
+      "The Queen's Guard at Buckingham Palace are active soldiers who can arrest you.",
+      "English is spoken as a first or second language by over 1.5 billion people worldwide."
+    ]
+  },
+  "GD": {
+    "name": "Grenada",
+    "capital": "St. George's",
+    "population": "125K",
+    "continent": "North America",
+    "languages": [
+      "English"
+    ],
+    "currency": "East Caribbean Dollar (XCD)",
+    "flag": "🇬🇩",
+    "facts": [
+      "Grenada is known as the 'Spice Isle' because it produces a third of the world's nutmeg.",
+      "The country's flag features a nutmeg, reflecting its importance to the economy.",
+      "Grenada has the world's first underwater sculpture park off its coast.",
+      "Grand Anse Beach in Grenada is consistently ranked among the best beaches in the Caribbean.",
+      "Grenada gained independence from Britain in 1974."
+    ]
+  },
+  "GE": {
+    "name": "Georgia",
+    "capital": "Tbilisi",
+    "population": "3.7M",
+    "continent": "Europe",
+    "languages": [
+      "Georgian"
+    ],
+    "currency": "Lari (GEL)",
+    "flag": "🇬🇪",
+    "facts": [
+      "Georgia is one of the oldest wine-producing regions in the world — winemaking dates back 8,000 years.",
+      "The Georgian alphabet is one of only 14 unique writing systems in the world.",
+      "Georgia's Caucasus Mountains contain Europe's highest settlement, Ushguli, at 2,200 meters.",
+      "Stalin was born in Gori, Georgia.",
+      "Georgia's cuisine, especially khachapuri (cheese bread) and khinkali (dumplings), is gaining global fame."
+    ]
+  },
+  "GH": {
+    "name": "Ghana",
+    "capital": "Accra",
+    "population": "34M",
+    "continent": "Africa",
+    "languages": [
+      "English"
+    ],
+    "currency": "Cedi (GHS)",
+    "flag": "🇬🇭",
+    "facts": [
+      "Ghana was the first sub-Saharan African country to gain independence from colonial rule in 1957.",
+      "Ghana is the second-largest producer of cocoa in the world.",
+      "Lake Volta in Ghana is one of the largest man-made lakes in the world by surface area.",
+      "Ghana is known for its colorful fantasy coffins, shaped like animals, cars, or symbols of the deceased's life.",
+      "The name 'Ghana' means 'Warrior King' in the Soninke language."
+    ]
+  },
+  "GM": {
+    "name": "Gambia",
+    "capital": "Banjul",
+    "population": "2.5M",
+    "continent": "Africa",
+    "languages": [
+      "English"
+    ],
+    "currency": "Dalasi (GMD)",
+    "flag": "🇬🇲",
+    "facts": [
+      "Gambia is the smallest country on mainland Africa.",
+      "The country is essentially a narrow strip of land on either side of the Gambia River.",
+      "Gambia is almost entirely surrounded by Senegal.",
+      "Kunta Kinteh Island (formerly James Island) is a UNESCO World Heritage Site linked to the slave trade.",
+      "The Gambia River is one of the finest waterways in West Africa and the country's lifeline."
+    ]
+  },
+  "GN": {
+    "name": "Guinea",
+    "capital": "Conakry",
+    "population": "14M",
+    "continent": "Africa",
+    "languages": [
+      "French"
+    ],
+    "currency": "Franc (GNF)",
+    "flag": "🇬🇳",
+    "facts": [
+      "Guinea has the world's largest reserves of bauxite, the ore used to make aluminum.",
+      "The Niger, Senegal, and Gambia rivers all originate in Guinea's Fouta Djallon highlands.",
+      "Guinea was the first French-speaking African country to gain independence in 1958.",
+      "Mount Nimba, a UNESCO World Heritage Site, straddles Guinea's border with Côte d'Ivoire and Liberia.",
+      "Guinea's diverse landscape includes coastal mangroves, savanna, and highland forests."
+    ]
+  },
+  "GQ": {
+    "name": "Equatorial Guinea",
+    "capital": "Malabo",
+    "population": "1.7M",
+    "continent": "Africa",
+    "languages": [
+      "Spanish",
+      "French",
+      "Portuguese"
+    ],
+    "currency": "CFA Franc (XAF)",
+    "flag": "🇬🇶",
+    "facts": [
+      "Equatorial Guinea is the only country in Africa where Spanish is an official language.",
+      "The country has one of the highest GDPs per capita in Africa due to oil wealth.",
+      "Bioko Island, where the capital Malabo is located, is a volcanic island in the Gulf of Guinea.",
+      "The country is planning to move its capital to Ciudad de la Paz on the mainland.",
+      "Equatorial Guinea has three official languages: Spanish, French, and Portuguese."
+    ]
+  },
+  "GR": {
+    "name": "Greece",
+    "capital": "Athens",
+    "population": "10.3M",
+    "continent": "Europe",
+    "languages": [
+      "Greek"
+    ],
+    "currency": "Euro (EUR)",
+    "flag": "🇬🇷",
+    "facts": [
+      "Greece is considered the birthplace of democracy, philosophy, and the Olympic Games.",
+      "Greece has more archaeological museums than any other country in the world.",
+      "The Greek language has been spoken for over 3,400 years, making it one of the oldest living languages.",
+      "Greece has over 6,000 islands, but only about 227 are inhabited.",
+      "The marathon race is named after a Greek soldier who ran from Marathon to Athens — about 42 km."
+    ]
+  },
+  "GT": {
+    "name": "Guatemala",
+    "capital": "Guatemala City",
+    "population": "17M",
+    "continent": "North America",
+    "languages": [
+      "Spanish"
+    ],
+    "currency": "Quetzal (GTQ)",
+    "flag": "🇬🇹",
+    "facts": [
+      "Guatemala's currency is named after the Quetzal bird, which was sacred to the ancient Maya.",
+      "Tikal, one of the largest ancient Maya cities, is in Guatemala's Petén jungle.",
+      "Guatemala is the most populous country in Central America.",
+      "The ancient Maya invented chocolate — cacao was used as currency in Guatemala.",
+      "Lake Atitlán, surrounded by volcanoes, is often called the most beautiful lake in the world."
+    ]
+  },
+  "GW": {
+    "name": "Guinea-Bissau",
+    "capital": "Bissau",
+    "population": "2M",
+    "continent": "Africa",
+    "languages": [
+      "Portuguese"
+    ],
+    "currency": "CFA Franc (XOF)",
+    "flag": "🇬🇼",
+    "facts": [
+      "Guinea-Bissau's Bijagós Archipelago is a UNESCO Biosphere Reserve with unique wildlife.",
+      "Cashew nuts are the country's main export product.",
+      "Guinea-Bissau gained independence from Portugal in 1973 after an 11-year guerrilla war.",
+      "The country is one of the smallest in West Africa.",
+      "The Bijagós Islands are home to saltwater hippos — one of the few places they exist."
+    ]
+  },
+  "GY": {
+    "name": "Guyana",
+    "capital": "Georgetown",
+    "population": "800K",
+    "continent": "South America",
+    "languages": [
+      "English"
+    ],
+    "currency": "Dollar (GYD)",
+    "flag": "🇬🇾",
+    "facts": [
+      "Guyana is the only English-speaking country in South America.",
+      "Kaieteur Falls in Guyana is one of the most powerful waterfalls in the world by volume and height.",
+      "Over 80% of Guyana is covered by tropical rainforest.",
+      "Guyana recently discovered massive offshore oil reserves, transforming its economy.",
+      "The country's name comes from an indigenous word meaning 'Land of Many Waters.'"
+    ]
+  },
+  "HN": {
+    "name": "Honduras",
+    "capital": "Tegucigalpa",
+    "population": "10M",
+    "continent": "North America",
+    "languages": [
+      "Spanish"
+    ],
+    "currency": "Lempira (HNL)",
+    "flag": "🇭🇳",
+    "facts": [
+      "Honduras is home to the ancient Maya ruins of Copán, a UNESCO World Heritage Site.",
+      "The Bay Islands off Honduras have some of the world's best reef diving.",
+      "Honduras means 'depths' in Spanish, named by Columbus for the deep waters off its coast.",
+      "La Mosquitia in eastern Honduras is one of the largest wilderness areas in Central America.",
+      "Honduras has the second-largest barrier reef in the world as part of the Mesoamerican Reef."
+    ]
+  },
+  "HR": {
+    "name": "Croatia",
+    "capital": "Zagreb",
+    "population": "3.9M",
+    "continent": "Europe",
+    "languages": [
+      "Croatian"
+    ],
+    "currency": "Euro (EUR)",
+    "flag": "🇭🇷",
+    "facts": [
+      "The necktie (cravat) originated in Croatia — Croatian soldiers wore them in the 17th century.",
+      "Dubrovnik's Old Town was a filming location for King's Landing in Game of Thrones.",
+      "Croatia has over 1,200 islands along its Adriatic coast.",
+      "Plitvice Lakes National Park has 16 terraced lakes connected by waterfalls.",
+      "Croatia's Dalmatian coast is named after the region — and so is the Dalmatian dog breed."
+    ]
+  },
+  "HT": {
+    "name": "Haiti",
+    "capital": "Port-au-Prince",
+    "population": "11.5M",
+    "continent": "North America",
+    "languages": [
+      "French",
+      "Haitian Creole"
+    ],
+    "currency": "Gourde (HTG)",
+    "flag": "🇭🇹",
+    "facts": [
+      "Haiti was the first independent Black republic, gaining freedom from France in 1804.",
+      "Haiti shares the island of Hispaniola with the Dominican Republic.",
+      "The Citadelle Laferrière is the largest fortress in the Americas.",
+      "Haiti's revolution was the only successful large-scale slave revolt in history.",
+      "Haitian art, especially its vibrant paintings and metalwork, is celebrated worldwide."
+    ]
+  },
+  "HU": {
+    "name": "Hungary",
+    "capital": "Budapest",
+    "population": "9.6M",
+    "continent": "Europe",
+    "languages": [
+      "Hungarian"
+    ],
+    "currency": "Forint (HUF)",
+    "flag": "🇭🇺",
+    "facts": [
+      "The Rubik's Cube was invented by Hungarian professor Ernő Rubik in 1974.",
+      "Budapest has the largest thermal water cave system in the world.",
+      "Hungary has won more Olympic gold medals per capita than most countries.",
+      "The Hungarian language is unrelated to any neighboring country's language.",
+      "Budapest's Parliament Building is the third largest in the world."
+    ]
+  },
+  "ID": {
+    "name": "Indonesia",
+    "capital": "Jakarta",
+    "population": "277M",
+    "continent": "Asia",
+    "languages": [
+      "Indonesian"
+    ],
+    "currency": "Rupiah (IDR)",
+    "flag": "🇮🇩",
+    "facts": [
+      "Indonesia is the largest archipelago in the world with over 17,000 islands.",
+      "Komodo dragons, the world's largest lizards, are found only in Indonesia.",
+      "Indonesia has the third-largest tropical rainforest in the world after Brazil and Congo.",
+      "Bali, one of Indonesia's islands, is one of the world's top tourist destinations.",
+      "Indonesia is the world's largest island country and the 4th most populous nation."
+    ]
+  },
+  "IE": {
+    "name": "Ireland",
+    "capital": "Dublin",
+    "population": "5.1M",
+    "continent": "Europe",
+    "languages": [
+      "Irish",
+      "English"
+    ],
+    "currency": "Euro (EUR)",
+    "flag": "🇮🇪",
+    "facts": [
+      "Ireland has no snakes — legend credits Saint Patrick with driving them out.",
+      "Halloween originated in Ireland from the ancient Celtic festival of Samhain.",
+      "Ireland is home to over 30,000 castles and ruins.",
+      "The harp, not the shamrock, is Ireland's official national symbol.",
+      "Ireland's population is still lower than it was before the Great Famine of the 1840s."
+    ]
+  },
+  "IL": {
+    "name": "Israel",
+    "capital": "Jerusalem",
+    "population": "9.8M",
+    "continent": "Asia",
+    "languages": [
+      "Hebrew",
+      "Arabic"
+    ],
+    "currency": "Shekel (ILS)",
+    "flag": "🇮🇱",
+    "facts": [
+      "Israel has more museums per capita than any other country.",
+      "Hebrew was a dead language for 1,700 years before being revived in Israel.",
+      "The Dead Sea, bordering Israel and Jordan, is the lowest point on Earth's surface.",
+      "Israel leads the world in recycled water use — over 85% of wastewater is recycled.",
+      "Israel has more startups per capita than any other country."
+    ]
+  },
+  "IN": {
+    "name": "India",
+    "capital": "New Delhi",
+    "population": "1.4B",
+    "continent": "Asia",
+    "languages": [
+      "Hindi",
+      "English"
+    ],
+    "currency": "Rupee (INR)",
+    "flag": "🇮🇳",
+    "facts": [
+      "India has the most post offices of any country in the world — over 155,000.",
+      "The number zero was invented in India by mathematician Aryabhata.",
+      "India is the world's largest producer of spices and milk.",
+      "The Kumbh Mela gathering in India is visible from space due to the sheer number of people.",
+      "India's space program has sent missions to the Moon and Mars at costs lower than many Hollywood films."
+    ]
+  },
+  "IQ": {
+    "name": "Iraq",
+    "capital": "Baghdad",
+    "population": "44M",
+    "continent": "Asia",
+    "languages": [
+      "Arabic",
+      "Kurdish"
+    ],
+    "currency": "Dinar (IQD)",
+    "flag": "🇮🇶",
+    "facts": [
+      "Iraq is home to Mesopotamia, often called the 'Cradle of Civilization.'",
+      "The ancient city of Babylon, with its famous hanging gardens, was located in modern Iraq.",
+      "Writing was invented in Mesopotamia (Iraq) around 3400 BCE using cuneiform.",
+      "Iraq has the fifth-largest proven oil reserves in the world.",
+      "The Tigris and Euphrates rivers, which run through Iraq, supported the earliest known civilizations."
+    ]
+  },
+  "IR": {
+    "name": "Iran",
+    "capital": "Tehran",
+    "population": "88M",
+    "continent": "Asia",
+    "languages": [
+      "Persian"
+    ],
+    "currency": "Rial (IRR)",
+    "flag": "🇮🇷",
+    "facts": [
+      "Iran is home to one of the world's oldest civilizations, dating back to 3200 BCE.",
+      "The Persian Empire was the largest empire in ancient history, spanning three continents.",
+      "Iran has 27 UNESCO World Heritage Sites.",
+      "The concept of the postal system was invented in ancient Persia (modern-day Iran).",
+      "Tehran's Grand Bazaar is one of the oldest and largest bazaars in the Middle East."
+    ]
+  },
+  "IS": {
+    "name": "Iceland",
+    "capital": "Reykjavik",
+    "population": "380K",
+    "continent": "Europe",
+    "languages": [
+      "Icelandic"
+    ],
+    "currency": "Króna (ISK)",
+    "flag": "🇮🇸",
+    "facts": [
+      "Iceland has no army, navy, or air force.",
+      "About 60% of Iceland's population lives in the capital area of Reykjavik.",
+      "Iceland's parliament, the Althing, was established in 930 AD — one of the oldest in the world.",
+      "Iceland sits on the Mid-Atlantic Ridge, with parts on both the North American and Eurasian tectonic plates.",
+      "There are no mosquitoes in Iceland."
+    ]
+  },
+  "IT": {
+    "name": "Italy",
+    "capital": "Rome",
+    "population": "59M",
+    "continent": "Europe",
+    "languages": [
+      "Italian"
+    ],
+    "currency": "Euro (EUR)",
+    "flag": "🇮🇹",
+    "facts": [
+      "Italy has the most UNESCO World Heritage Sites of any country in the world.",
+      "The University of Bologna, founded in 1088, is the oldest university in continuous operation.",
+      "Italy is home to two independent countries within its borders: Vatican City and San Marino.",
+      "Italians invented the piano, espresso machine, and eyeglasses.",
+      "The Colosseum in Rome could hold 50,000–80,000 spectators."
+    ]
+  },
+  "JM": {
+    "name": "Jamaica",
+    "capital": "Kingston",
+    "population": "2.8M",
+    "continent": "North America",
+    "languages": [
+      "English"
+    ],
+    "currency": "Dollar (JMD)",
+    "flag": "🇯🇲",
+    "facts": [
+      "Jamaica is the birthplace of reggae music and the legendary Bob Marley.",
+      "Usain Bolt, the fastest person ever timed, is Jamaican.",
+      "Jamaica was the first Caribbean country to gain independence, in 1962.",
+      "Blue Mountain coffee from Jamaica is considered one of the finest in the world.",
+      "Jamaica's flag is the only national flag that doesn't contain red, white, or blue."
+    ]
+  },
+  "JO": {
+    "name": "Jordan",
+    "capital": "Amman",
+    "population": "11.5M",
+    "continent": "Asia",
+    "languages": [
+      "Arabic"
+    ],
+    "currency": "Dinar (JOD)",
+    "flag": "🇯🇴",
+    "facts": [
+      "Petra, Jordan's famous ancient city carved into rock, is one of the New Seven Wonders of the World.",
+      "Jordan borders the Dead Sea, the lowest point on Earth at 430 meters below sea level.",
+      "Wadi Rum desert in Jordan was used as a filming location for 'The Martian' and 'Lawrence of Arabia.'",
+      "Jordan is one of the most water-scarce countries in the world.",
+      "Amman was originally built on seven hills, like Rome."
+    ]
+  },
+  "JP": {
+    "name": "Japan",
+    "capital": "Tokyo",
+    "population": "125M",
+    "continent": "Asia",
+    "languages": [
+      "Japanese"
+    ],
+    "currency": "Yen (JPY)",
+    "flag": "🇯🇵",
+    "facts": [
+      "Japan is made up of 6,852 islands.",
+      "Japan has more than 1,500 earthquakes per year.",
+      "Vending machines in Japan sell everything from hot meals to umbrellas — there are over 5 million.",
+      "Japan's Shinkansen bullet trains have an average delay of only 17 seconds.",
+      "The Japanese concept of 'forest bathing' (shinrin-yoku) is a recognized form of stress therapy."
+    ]
+  },
+  "KE": {
+    "name": "Kenya",
+    "capital": "Nairobi",
+    "population": "55M",
+    "continent": "Africa",
+    "languages": [
+      "Swahili",
+      "English"
+    ],
+    "currency": "Shilling (KES)",
+    "flag": "🇰🇪",
+    "facts": [
+      "Kenya is named after Mount Kenya, the second-highest peak in Africa.",
+      "The Great Rift Valley runs through Kenya, visible from space.",
+      "Kenya dominates long-distance running — Kenyan athletes have won countless Olympic and marathon medals.",
+      "M-Pesa, the world's leading mobile money service, was invented in Kenya.",
+      "The annual wildebeest migration in Kenya's Masai Mara is one of the greatest wildlife spectacles on Earth."
+    ]
+  },
+  "KG": {
+    "name": "Kyrgyzstan",
+    "capital": "Bishkek",
+    "population": "6.7M",
+    "continent": "Asia",
+    "languages": [
+      "Kyrgyz",
+      "Russian"
+    ],
+    "currency": "Som (KGS)",
+    "flag": "🇰🇬",
+    "facts": [
+      "Kyrgyzstan is over 90% mountainous, with peaks reaching above 7,000 meters.",
+      "Lake Issyk-Kul is one of the largest alpine lakes in the world and never freezes despite the altitude.",
+      "The Epic of Manas, Kyrgyzstan's national epic poem, is 20 times longer than the Iliad and Odyssey combined.",
+      "Traditional yurt culture is still practiced by nomadic communities.",
+      "Kyrgyzstan was the first Central Asian country to adopt a parliamentary system."
+    ]
+  },
+  "KH": {
+    "name": "Cambodia",
+    "capital": "Phnom Penh",
+    "population": "17M",
+    "continent": "Asia",
+    "languages": [
+      "Khmer"
+    ],
+    "currency": "Riel (KHR)",
+    "flag": "🇰🇭",
+    "facts": [
+      "Cambodia's Angkor Wat is the largest religious monument in the world.",
+      "The Cambodian flag is the only national flag to feature a building (Angkor Wat).",
+      "The Tonlé Sap lake doubles in size during the monsoon season.",
+      "Cambodia's Khmer Empire once controlled much of Southeast Asia.",
+      "Cambodia uses the US dollar alongside its own currency in everyday transactions."
+    ]
+  },
+  "KM": {
+    "name": "Comoros",
+    "capital": "Moroni",
+    "population": "900K",
+    "continent": "Africa",
+    "languages": [
+      "Comorian",
+      "Arabic",
+      "French"
+    ],
+    "currency": "Franc (KMF)",
+    "flag": "🇰🇲",
+    "facts": [
+      "Comoros is one of the world's largest producers of ylang-ylang, used in perfumes.",
+      "The country consists of three main volcanic islands in the Indian Ocean off East Africa.",
+      "Mount Karthala on Grande Comore is one of the world's most active volcanoes.",
+      "Comoros has had over 20 coups or attempted coups since independence in 1975.",
+      "The coelacanth, a 'living fossil' fish thought extinct for millions of years, was found near Comoros."
+    ]
+  },
+  "KN": {
+    "name": "Saint Kitts and Nevis",
+    "capital": "Basseterre",
+    "population": "48K",
+    "continent": "North America",
+    "languages": [
+      "English"
+    ],
+    "currency": "East Caribbean Dollar (XCD)",
+    "flag": "🇰🇳",
+    "facts": [
+      "Saint Kitts and Nevis is the smallest sovereign state in the Americas by both area and population.",
+      "The country's citizenship-by-investment program, established in 1984, is the oldest of its kind.",
+      "Brimstone Hill Fortress is a UNESCO World Heritage Site and one of the best-preserved forts in the Americas.",
+      "The islands were among the first Caribbean islands colonized by Europeans.",
+      "Mount Liamuiga, a dormant volcano on Saint Kitts, has a crater lake at its summit."
+    ]
+  },
+  "KP": {
+    "name": "North Korea",
+    "capital": "Pyongyang",
+    "population": "26M",
+    "continent": "Asia",
+    "languages": [
+      "Korean"
+    ],
+    "currency": "Won (KPW)",
+    "flag": "🇰🇵",
+    "facts": [
+      "North Korea uses its own calendar, called the Juche calendar, starting from 1912.",
+      "North Korea and South Korea are technically still at war — only an armistice was signed, not a peace treaty.",
+      "Pyongyang has a 105-story pyramid-shaped hotel (Ryugyong Hotel) that has never opened.",
+      "North Korea has its own intranet called Kwangmyong, separate from the global internet.",
+      "The DMZ (Demilitarized Zone) between North and South Korea has become an accidental wildlife refuge."
+    ]
+  },
+  "KR": {
+    "name": "South Korea",
+    "capital": "Seoul",
+    "population": "52M",
+    "continent": "Asia",
+    "languages": [
+      "Korean"
+    ],
+    "currency": "Won (KRW)",
+    "flag": "🇰🇷",
+    "facts": [
+      "South Korea has the fastest average internet speed in the world.",
+      "K-pop and Korean dramas (K-dramas) have become a global cultural phenomenon.",
+      "South Korea's Samsung produces about 20% of the country's GDP.",
+      "The Korean alphabet, Hangul, was specifically designed to be easy to learn.",
+      "South Korea has a 'Black Day' (April 14) where single people eat black bean noodles to commiserate."
+    ]
+  },
+  "KW": {
+    "name": "Kuwait",
+    "capital": "Kuwait City",
+    "population": "4.3M",
+    "continent": "Asia",
+    "languages": [
+      "Arabic"
+    ],
+    "currency": "Dinar (KWD)",
+    "flag": "🇰🇼",
+    "facts": [
+      "The Kuwaiti Dinar is the highest-valued currency unit in the world.",
+      "Kuwait has no rivers or permanent bodies of fresh water.",
+      "Kuwait was one of the first Gulf states to establish a parliament.",
+      "The country gets almost all its fresh water from desalination plants.",
+      "Kuwait has some of the hottest temperatures ever recorded — up to 54°C."
+    ]
+  },
+  "KZ": {
+    "name": "Kazakhstan",
+    "capital": "Astana",
+    "population": "19.5M",
+    "continent": "Asia",
+    "languages": [
+      "Kazakh",
+      "Russian"
+    ],
+    "currency": "Tenge (KZT)",
+    "flag": "🇰🇿",
+    "facts": [
+      "Kazakhstan is the largest landlocked country in the world.",
+      "The Baikonur Cosmodrome in Kazakhstan was the launch site for the first human space flight.",
+      "Apples are believed to have originated in Kazakhstan — the name 'Almaty' means 'Father of Apples.'",
+      "Kazakhstan spans two continents: Europe and Asia.",
+      "The country is the 9th largest in the world by area."
+    ]
+  },
+  "LA": {
+    "name": "Laos",
+    "capital": "Vientiane",
+    "population": "7.5M",
+    "continent": "Asia",
+    "languages": [
+      "Lao"
+    ],
+    "currency": "Kip (LAK)",
+    "flag": "🇱🇦",
+    "facts": [
+      "Laos is the most heavily bombed country per capita in history, due to the Vietnam War era.",
+      "The Plain of Jars contains thousands of mysterious stone jars, some over 2,000 years old.",
+      "Laos is the only landlocked country in Southeast Asia.",
+      "The Mekong River runs along much of Laos's border and is the country's lifeline.",
+      "Luang Prabang, the former royal capital, is a UNESCO World Heritage city."
+    ]
+  },
+  "LB": {
+    "name": "Lebanon",
+    "capital": "Beirut",
+    "population": "5.5M",
+    "continent": "Asia",
+    "languages": [
+      "Arabic"
+    ],
+    "currency": "Pound (LBP)",
+    "flag": "🇱🇧",
+    "facts": [
+      "Lebanon's cedar tree is on its flag and has been famous since ancient times.",
+      "Beirut has been destroyed and rebuilt 7 times throughout history.",
+      "Byblos in Lebanon is one of the oldest continuously inhabited cities in the world.",
+      "The Phoenicians, who invented the alphabet, came from modern-day Lebanon.",
+      "Lebanon is smaller than Connecticut but has 18 recognized religious sects."
+    ]
+  },
+  "LC": {
+    "name": "Saint Lucia",
+    "capital": "Castries",
+    "population": "180K",
+    "continent": "North America",
+    "languages": [
+      "English"
+    ],
+    "currency": "East Caribbean Dollar (XCD)",
+    "flag": "🇱🇨",
+    "facts": [
+      "Saint Lucia's twin Pitons — volcanic spires rising from the sea — are a UNESCO World Heritage Site.",
+      "Saint Lucia is the only country in the world named after a woman (Saint Lucy).",
+      "The island has two Nobel laureates — the highest per capita of any country.",
+      "Saint Lucia changed hands between Britain and France 14 times before becoming permanently British.",
+      "The Sulphur Springs near Soufrière is the world's only drive-in volcano."
+    ]
+  },
+  "LI": {
+    "name": "Liechtenstein",
+    "capital": "Vaduz",
+    "population": "39K",
+    "continent": "Europe",
+    "languages": [
+      "German"
+    ],
+    "currency": "Swiss Franc (CHF)",
+    "flag": "🇱🇮",
+    "facts": [
+      "Liechtenstein is the sixth-smallest country in the world.",
+      "It is one of only two doubly landlocked countries (surrounded entirely by landlocked countries).",
+      "Liechtenstein has no airport and no military.",
+      "The country is a major center for finance and has more registered companies than citizens.",
+      "Liechtenstein is the world's largest producer of false teeth."
+    ]
+  },
+  "LK": {
+    "name": "Sri Lanka",
+    "capital": "Sri Jayawardenepura Kotte",
+    "population": "22M",
+    "continent": "Asia",
+    "languages": [
+      "Sinhala",
+      "Tamil"
+    ],
+    "currency": "Rupee (LKR)",
+    "flag": "🇱🇰",
+    "facts": [
+      "Sri Lanka was known as Ceylon until 1972.",
+      "Sri Lanka is one of the world's largest tea exporters — Ceylon tea is famous worldwide.",
+      "The ancient city of Sigiriya features a palace built on top of a 200-meter rock fortress.",
+      "Sri Lanka has the highest biodiversity density in Asia.",
+      "Adam's Peak is a sacred mountain with a footprint-shaped mark revered by Buddhists, Hindus, Muslims, and Christians."
+    ]
+  },
+  "LR": {
+    "name": "Liberia",
+    "capital": "Monrovia",
+    "population": "5.2M",
+    "continent": "Africa",
+    "languages": [
+      "English"
+    ],
+    "currency": "Dollar (LRD)",
+    "flag": "🇱🇷",
+    "facts": [
+      "Liberia was founded by freed American slaves in 1847 — its flag closely resembles the US flag.",
+      "Monrovia is named after US President James Monroe.",
+      "Liberia has the largest merchant shipping registry in the world.",
+      "Ellen Johnson Sirleaf of Liberia was the first elected female head of state in Africa.",
+      "Liberia is home to the last significant portion of Upper Guinea rainforest in West Africa."
+    ]
+  },
+  "LS": {
+    "name": "Lesotho",
+    "capital": "Maseru",
+    "population": "2.2M",
+    "continent": "Africa",
+    "languages": [
+      "Sesotho",
+      "English"
+    ],
+    "currency": "Loti (LSL)",
+    "flag": "🇱🇸",
+    "facts": [
+      "Lesotho is the only country in the world entirely above 1,000 meters in elevation.",
+      "Lesotho is completely surrounded by South Africa — one of only three enclaved countries.",
+      "The country is known as the 'Kingdom in the Sky' due to its high altitude.",
+      "Lesotho's Thabana Ntlenyana is the highest peak in southern Africa at 3,482 meters.",
+      "The traditional Basotho blanket is a cultural icon and everyday garment."
+    ]
+  },
+  "LT": {
+    "name": "Lithuania",
+    "capital": "Vilnius",
+    "population": "2.8M",
+    "continent": "Europe",
+    "languages": [
+      "Lithuanian"
+    ],
+    "currency": "Euro (EUR)",
+    "flag": "🇱🇹",
+    "facts": [
+      "Lithuanian is one of the oldest living languages in the world, closely related to Sanskrit.",
+      "Lithuania was the last pagan country in Europe, not Christianized until the 14th century.",
+      "The Hill of Crosses near Šiauliai has over 100,000 crosses placed by pilgrims.",
+      "Lithuania was the first Soviet republic to declare independence in 1990.",
+      "Vilnius's Old Town is one of the largest surviving medieval old towns in Northern Europe."
+    ]
+  },
+  "LU": {
+    "name": "Luxembourg",
+    "capital": "Luxembourg City",
+    "population": "660K",
+    "continent": "Europe",
+    "languages": [
+      "Luxembourgish",
+      "French",
+      "German"
+    ],
+    "currency": "Euro (EUR)",
+    "flag": "🇱🇺",
+    "facts": [
+      "Luxembourg has the highest GDP per capita in the world.",
+      "About 47% of Luxembourg's workforce commutes from neighboring countries.",
+      "Luxembourg was a founding member of the EU, NATO, and the United Nations.",
+      "The country has three official languages: Luxembourgish, French, and German.",
+      "Luxembourg City's old quarters and fortifications are a UNESCO World Heritage Site."
+    ]
+  },
+  "LV": {
+    "name": "Latvia",
+    "capital": "Riga",
+    "population": "1.8M",
+    "continent": "Europe",
+    "languages": [
+      "Latvian"
+    ],
+    "currency": "Euro (EUR)",
+    "flag": "🇱🇻",
+    "facts": [
+      "Latvia's flag is one of the oldest in the world, first mentioned in 1280.",
+      "Riga's Art Nouveau architecture district has one of the finest collections in Europe.",
+      "Latvia has the fourth-highest forest coverage in Europe at over 50%.",
+      "The first Christmas tree is said to have been erected in Riga in 1510.",
+      "Latvia is one of the Baltic states, along with Estonia and Lithuania."
+    ]
+  },
+  "LY": {
+    "name": "Libya",
+    "capital": "Tripoli",
+    "population": "7M",
+    "continent": "Africa",
+    "languages": [
+      "Arabic"
+    ],
+    "currency": "Dinar (LYD)",
+    "flag": "🇱🇾",
+    "facts": [
+      "Libya has the largest proven oil reserves in Africa.",
+      "The ancient Roman city of Leptis Magna in Libya is one of the best-preserved Roman ruins in the world.",
+      "About 90% of Libya is desert.",
+      "Libya's Saharan rock art in the Tadrart Acacus mountains dates back 12,000 years.",
+      "The Great Man-Made River in Libya is the world's largest irrigation project, drawing water from ancient underground aquifers."
+    ]
+  },
+  "MA": {
+    "name": "Morocco",
+    "capital": "Rabat",
+    "population": "37M",
+    "continent": "Africa",
+    "languages": [
+      "Arabic",
+      "Berber",
+      "French"
+    ],
+    "currency": "Dirham (MAD)",
+    "flag": "🇲🇦",
+    "facts": [
+      "Morocco is home to the world's oldest university — the University of al-Qarawiyyin, founded in 859 AD.",
+      "The Sahara Desert covers a large portion of southern Morocco.",
+      "Morocco is only 14 km from Spain across the Strait of Gibraltar.",
+      "Fez, Morocco has the world's oldest tannery still in operation.",
+      "Morocco was the first country to recognize the United States as an independent nation in 1777."
+    ]
+  },
+  "MC": {
+    "name": "Monaco",
+    "capital": "Monaco",
+    "population": "40K",
+    "continent": "Europe",
+    "languages": [
+      "French"
+    ],
+    "currency": "Euro (EUR)",
+    "flag": "🇲🇨",
+    "facts": [
+      "Monaco is the second-smallest country in the world, smaller than Central Park in New York.",
+      "Monaco has the highest population density of any country in the world.",
+      "The Monaco Grand Prix is one of the most prestigious Formula 1 races, held on city streets.",
+      "Monaco has no income tax, making it a haven for the ultra-wealthy.",
+      "The Monte Carlo Casino opened in 1863 and is one of the most famous casinos in the world."
+    ]
+  },
+  "MD": {
+    "name": "Moldova",
+    "capital": "Chișinău",
+    "population": "2.6M",
+    "continent": "Europe",
+    "languages": [
+      "Romanian"
+    ],
+    "currency": "Leu (MDL)",
+    "flag": "🇲🇩",
+    "facts": [
+      "Moldova has the largest wine cellar in the world — Mileștii Mici has over 200 km of underground tunnels.",
+      "Moldova is one of the least visited countries in Europe.",
+      "The country is landlocked between Romania and Ukraine.",
+      "Wine production dates back over 5,000 years in Moldova.",
+      "Transnistria, a breakaway region, has its own government, currency, and military."
+    ]
+  },
+  "ME": {
+    "name": "Montenegro",
+    "capital": "Podgorica",
+    "population": "620K",
+    "continent": "Europe",
+    "languages": [
+      "Montenegrin"
+    ],
+    "currency": "Euro (EUR)",
+    "flag": "🇲🇪",
+    "facts": [
+      "Montenegro's name means 'Black Mountain' in Venetian/Italian.",
+      "The Bay of Kotor is often called 'Europe's southernmost fjord.'",
+      "Montenegro gained independence from Serbia in 2006, making it one of Europe's newest countries.",
+      "Tara River Canyon is the deepest river canyon in Europe and second deepest in the world after the Grand Canyon.",
+      "Montenegro has one of the oldest olive trees in the world, believed to be over 2,000 years old."
+    ]
+  },
+  "MG": {
+    "name": "Madagascar",
+    "capital": "Antananarivo",
+    "population": "29M",
+    "continent": "Africa",
+    "languages": [
+      "Malagasy",
+      "French"
+    ],
+    "currency": "Ariary (MGA)",
+    "flag": "🇲🇬",
+    "facts": [
+      "About 90% of Madagascar's wildlife is found nowhere else on Earth.",
+      "Madagascar is the fourth-largest island in the world.",
+      "Lemurs are found only in Madagascar — there are over 100 species.",
+      "The Avenue of the Baobabs features 800-year-old trees lining a dirt road.",
+      "Madagascar separated from the Indian subcontinent about 88 million years ago."
+    ]
+  },
+  "MH": {
+    "name": "Marshall Islands",
+    "capital": "Majuro",
+    "population": "42K",
+    "continent": "Oceania",
+    "languages": [
+      "Marshallese",
+      "English"
+    ],
+    "currency": "US Dollar (USD)",
+    "flag": "🇲🇭",
+    "facts": [
+      "The Marshall Islands were used as a US nuclear testing site — 67 bombs were detonated at Bikini Atoll.",
+      "The country consists of 29 coral atolls and 5 isolated islands.",
+      "Marshallese stick charts were an ancient navigation tool using shells and sticks to map ocean swells.",
+      "The Marshall Islands has one of the largest shark sanctuaries in the world.",
+      "The country's highest point is only about 10 meters above sea level."
+    ]
+  },
+  "MK": {
+    "name": "North Macedonia",
+    "capital": "Skopje",
+    "population": "1.8M",
+    "continent": "Europe",
+    "languages": [
+      "Macedonian"
+    ],
+    "currency": "Denar (MKD)",
+    "flag": "🇲🇰",
+    "facts": [
+      "North Macedonia changed its name from 'Macedonia' in 2019 to resolve a decades-long dispute with Greece.",
+      "Mother Teresa was born in Skopje in 1910.",
+      "Lake Ohrid is one of the oldest and deepest lakes in Europe, over 3 million years old.",
+      "Skopje was nearly destroyed by an earthquake in 1963 and rebuilt with international help.",
+      "North Macedonia's flag features a radiant golden sun on a red background."
+    ]
+  },
+  "ML": {
+    "name": "Mali",
+    "capital": "Bamako",
+    "population": "22M",
+    "continent": "Africa",
+    "languages": [
+      "French"
+    ],
+    "currency": "CFA Franc (XOF)",
+    "flag": "🇲🇱",
+    "facts": [
+      "Timbuktu in Mali was once a legendary center of learning and trade in the Islamic world.",
+      "The Great Mosque of Djenné is the largest mud-brick building in the world.",
+      "The Mali Empire (1235-1600) was one of the wealthiest empires in history.",
+      "Mansa Musa of Mali is considered the wealthiest person to have ever lived.",
+      "Malian music, especially the kora (harp), has influenced musicians worldwide."
+    ]
+  },
+  "MM": {
+    "name": "Myanmar",
+    "capital": "Naypyidaw",
+    "population": "55M",
+    "continent": "Asia",
+    "languages": [
+      "Burmese"
+    ],
+    "currency": "Kyat (MMK)",
+    "flag": "🇲🇲",
+    "facts": [
+      "Myanmar (formerly Burma) has over 10,000 Buddhist temples in the ancient city of Bagan.",
+      "Naypyidaw, the capital built in 2005, has 20-lane highways that are mostly empty.",
+      "Myanmar is one of only three countries that don't use the metric system (with the US and Liberia).",
+      "Inle Lake's leg-rowing fishermen are one of the country's most iconic sights.",
+      "Myanmar is the world's largest producer of rubies and jade."
+    ]
+  },
+  "MN": {
+    "name": "Mongolia",
+    "capital": "Ulaanbaatar",
+    "population": "3.4M",
+    "continent": "Asia",
+    "languages": [
+      "Mongolian"
+    ],
+    "currency": "Tugrik (MNT)",
+    "flag": "🇲🇳",
+    "facts": [
+      "Mongolia is the most sparsely populated country in the world.",
+      "Genghis Khan founded the Mongol Empire — the largest contiguous land empire in history.",
+      "About 30% of Mongolians are still nomadic or semi-nomadic herders.",
+      "Mongolia has more horses than people.",
+      "The Gobi Desert in southern Mongolia is the largest desert in Asia."
+    ]
+  },
+  "MR": {
+    "name": "Mauritania",
+    "capital": "Nouakchott",
+    "population": "4.8M",
+    "continent": "Africa",
+    "languages": [
+      "Arabic"
+    ],
+    "currency": "Ouguiya (MRU)",
+    "flag": "🇲🇷",
+    "facts": [
+      "Mauritania's Eye of the Sahara (Richat Structure) is a 50-km-wide geological formation visible from space.",
+      "Nouakchott was a tiny village of 200 people before becoming the capital in 1960.",
+      "Mauritania was the last country to abolish slavery, doing so officially in 1981.",
+      "The ancient city of Chinguetti is a UNESCO World Heritage Site and was a center of Islamic learning.",
+      "Most of Mauritania is covered by the Sahara Desert."
+    ]
+  },
+  "MT": {
+    "name": "Malta",
+    "capital": "Valletta",
+    "population": "520K",
+    "continent": "Europe",
+    "languages": [
+      "Maltese",
+      "English"
+    ],
+    "currency": "Euro (EUR)",
+    "flag": "🇲🇹",
+    "facts": [
+      "Malta's megalithic temples are older than the pyramids of Egypt and Stonehenge.",
+      "Valletta is the smallest national capital in the EU by area.",
+      "Malta was awarded the George Cross by King George VI in 1942 for bravery in World War II.",
+      "The Maltese language is the only Semitic language written in Latin script.",
+      "Malta's Blue Lagoon on Comino island has crystal-clear turquoise waters."
+    ]
+  },
+  "MU": {
+    "name": "Mauritius",
+    "capital": "Port Louis",
+    "population": "1.3M",
+    "continent": "Africa",
+    "languages": [
+      "English",
+      "French",
+      "Creole"
+    ],
+    "currency": "Rupee (MUR)",
+    "flag": "🇲🇺",
+    "facts": [
+      "The dodo bird was native to Mauritius and went extinct in the 17th century.",
+      "Mauritius has an underwater waterfall illusion visible from the air, caused by sand and silt patterns.",
+      "The country is one of Africa's wealthiest and most stable nations.",
+      "Mauritius's seven-colored earth in Chamarel is a natural phenomenon of multi-hued sand dunes.",
+      "Mark Twain reportedly said, 'Mauritius was made first, and then heaven.'"
+    ]
+  },
+  "MV": {
+    "name": "Maldives",
+    "capital": "Malé",
+    "population": "520K",
+    "continent": "Asia",
+    "languages": [
+      "Dhivehi"
+    ],
+    "currency": "Rufiyaa (MVR)",
+    "flag": "🇲🇻",
+    "facts": [
+      "The Maldives is the lowest-lying country in the world, with an average elevation of just 1.5 meters.",
+      "The Maldives consists of 1,192 coral islands grouped into 26 atolls.",
+      "Rising sea levels threaten the Maldives — it could be underwater by 2100.",
+      "The Maldives has some of the clearest water in the world with visibility up to 50 meters.",
+      "Malé is one of the most densely populated cities in the world."
+    ]
+  },
+  "MW": {
+    "name": "Malawi",
+    "capital": "Lilongwe",
+    "population": "20M",
+    "continent": "Africa",
+    "languages": [
+      "English",
+      "Chichewa"
+    ],
+    "currency": "Kwacha (MWK)",
+    "flag": "🇲🇼",
+    "facts": [
+      "Lake Malawi contains more fish species than any other lake in the world — over 1,000.",
+      "Malawi is known as 'The Warm Heart of Africa' for its friendly people.",
+      "Lake Malawi makes up about a third of the country's total area.",
+      "Malawi is one of the most densely populated countries in Africa.",
+      "The country is one of the least developed in the world but has a rich cultural heritage."
+    ]
+  },
+  "MX": {
+    "name": "Mexico",
+    "capital": "Mexico City",
+    "population": "130M",
+    "continent": "North America",
+    "languages": [
+      "Spanish"
+    ],
+    "currency": "Peso (MXN)",
+    "flag": "🇲🇽",
+    "facts": [
+      "Mexico City was built on the ruins of the Aztec capital Tenochtitlán.",
+      "Mexico introduced chocolate, chili peppers, and corn to the world.",
+      "Mexico has 35 UNESCO World Heritage Sites — more than any other country in the Americas.",
+      "The Chichén Itzá pyramid creates a shadow of a serpent during the spring equinox.",
+      "Mexico City is sinking at a rate of about 50 cm per year due to water extraction from underground."
+    ]
+  },
+  "MY": {
+    "name": "Malaysia",
+    "capital": "Kuala Lumpur",
+    "population": "34M",
+    "continent": "Asia",
+    "languages": [
+      "Malay"
+    ],
+    "currency": "Ringgit (MYR)",
+    "flag": "🇲🇾",
+    "facts": [
+      "Malaysia's Petronas Twin Towers were the tallest buildings in the world from 1998 to 2004.",
+      "Malaysia has one of the oldest tropical rainforests in the world — over 130 million years old.",
+      "The country is split into two parts separated by the South China Sea.",
+      "Malaysia is one of the world's top producers of palm oil and rubber.",
+      "The Rafflesia, the world's largest flower, can be found in Malaysian Borneo."
+    ]
+  },
+  "MZ": {
+    "name": "Mozambique",
+    "capital": "Maputo",
+    "population": "33M",
+    "continent": "Africa",
+    "languages": [
+      "Portuguese"
+    ],
+    "currency": "Metical (MZN)",
+    "flag": "🇲🇿",
+    "facts": [
+      "Mozambique's flag features an AK-47 rifle — the only national flag with a modern firearm.",
+      "The country has over 2,500 km of Indian Ocean coastline.",
+      "Mozambique's Bazaruto Archipelago has some of the best marine life in the Indian Ocean.",
+      "The Island of Mozambique was a major Portuguese trading post and is a UNESCO World Heritage Site.",
+      "Mozambique is home to Africa's second-largest lake — Lake Malawi/Niassa."
+    ]
+  },
+  "NA": {
+    "name": "Namibia",
+    "capital": "Windhoek",
+    "population": "2.6M",
+    "continent": "Africa",
+    "languages": [
+      "English"
+    ],
+    "currency": "Dollar (NAD)",
+    "flag": "🇳🇦",
+    "facts": [
+      "Namibia's Namib Desert is considered the oldest desert in the world at about 55 million years.",
+      "Namibia was the first country in Africa to incorporate environmental protection into its constitution.",
+      "The Skeleton Coast is littered with shipwrecks and whale bones.",
+      "Namibia has one of the lowest population densities in the world.",
+      "The Sossusvlei sand dunes are among the tallest in the world, reaching over 300 meters."
+    ]
+  },
+  "NE": {
+    "name": "Niger",
+    "capital": "Niamey",
+    "population": "26M",
+    "continent": "Africa",
+    "languages": [
+      "French"
+    ],
+    "currency": "CFA Franc (XOF)",
+    "flag": "🇳🇪",
+    "facts": [
+      "Niger has the youngest population in the world with a median age of about 15 years.",
+      "The Sahara Desert covers about 80% of Niger's land area.",
+      "The Cure Salée festival celebrates the end of the rainy season with a massive gathering of nomadic peoples.",
+      "Niger is named after the Niger River, which flows through the southwestern part of the country.",
+      "The Air Mountains in Niger contain ancient rock carvings dating back thousands of years."
+    ]
+  },
+  "NG": {
+    "name": "Nigeria",
+    "capital": "Abuja",
+    "population": "224M",
+    "continent": "Africa",
+    "languages": [
+      "English"
+    ],
+    "currency": "Naira (NGN)",
+    "flag": "🇳🇬",
+    "facts": [
+      "Nigeria is the most populous country in Africa and the 6th most populous in the world.",
+      "Nollywood (Nigeria's film industry) produces more movies annually than Hollywood.",
+      "Nigeria has over 500 different ethnic groups and over 520 languages.",
+      "Lagos is the largest city in Africa with an estimated population of over 20 million.",
+      "Nigeria is Africa's largest economy and its biggest oil exporter."
+    ]
+  },
+  "NI": {
+    "name": "Nicaragua",
+    "capital": "Managua",
+    "population": "6.9M",
+    "continent": "North America",
+    "languages": [
+      "Spanish"
+    ],
+    "currency": "Córdoba (NIO)",
+    "flag": "🇳🇮",
+    "facts": [
+      "Nicaragua is the largest country in Central America.",
+      "Lake Nicaragua is the only freshwater lake in the world with sharks (bull sharks).",
+      "Nicaragua has the second-largest rainforest in the Americas after the Amazon.",
+      "The country is known as the 'Land of Lakes and Volcanoes.'",
+      "Nicaragua's flag is one of only two national flags that contain purple (the other is Dominica)."
+    ]
+  },
+  "NL": {
+    "name": "Netherlands",
+    "capital": "Amsterdam",
+    "population": "17.8M",
+    "continent": "Europe",
+    "languages": [
+      "Dutch"
+    ],
+    "currency": "Euro (EUR)",
+    "flag": "🇳🇱",
+    "facts": [
+      "About one-third of the Netherlands is below sea level.",
+      "The Netherlands has more bicycles than people — about 23 million bikes for 17.8 million people.",
+      "Amsterdam has over 1,200 bridges and 165 canals.",
+      "The Dutch are the tallest people in the world on average.",
+      "The Netherlands invented the stock exchange (Amsterdam Stock Exchange, 1602)."
+    ]
+  },
+  "NO": {
+    "name": "Norway",
+    "capital": "Oslo",
+    "population": "5.5M",
+    "continent": "Europe",
+    "languages": [
+      "Norwegian"
+    ],
+    "currency": "Krone (NOK)",
+    "flag": "🇳🇴",
+    "facts": [
+      "Norway has the world's longest road tunnel — the Lærdalstunnelen at 24.5 km.",
+      "Norway's Government Pension Fund is the largest sovereign wealth fund in the world.",
+      "The Northern Lights (Aurora Borealis) are visible in northern Norway.",
+      "Norway introduced salmon sushi to Japan in the 1980s.",
+      "Norway knighted a penguin — Brigadier Sir Nils Olav III at Edinburgh Zoo."
+    ]
+  },
+  "NP": {
+    "name": "Nepal",
+    "capital": "Kathmandu",
+    "population": "30M",
+    "continent": "Asia",
+    "languages": [
+      "Nepali"
+    ],
+    "currency": "Rupee (NPR)",
+    "flag": "🇳🇵",
+    "facts": [
+      "Nepal is the only country in the world with a non-rectangular flag.",
+      "Mount Everest, the tallest mountain on Earth at 8,849m, is in Nepal.",
+      "Nepal has never been colonized by a foreign power.",
+      "Lumbini, Nepal is the birthplace of the Buddha.",
+      "Nepal's flag is made of two stacked triangles representing the Himalayas and two religions: Hinduism and Buddhism."
+    ]
+  },
+  "NR": {
+    "name": "Nauru",
+    "capital": "Yaren",
+    "population": "12K",
+    "continent": "Oceania",
+    "languages": [
+      "Nauruan",
+      "English"
+    ],
+    "currency": "Australian Dollar (AUD)",
+    "flag": "🇳🇷",
+    "facts": [
+      "Nauru is the smallest island country in the world at just 21 square kilometers.",
+      "Nauru was once the wealthiest country per capita due to phosphate mining.",
+      "The country has no official capital — Yaren is the de facto seat of government.",
+      "Nauru is the only country in the world with no official capital city.",
+      "Phosphate mining has left 80% of the island stripped and barren."
+    ]
+  },
+  "NZ": {
+    "name": "New Zealand",
+    "capital": "Wellington",
+    "population": "5.1M",
+    "continent": "Oceania",
+    "languages": [
+      "English",
+      "Māori"
+    ],
+    "currency": "Dollar (NZD)",
+    "flag": "🇳🇿",
+    "facts": [
+      "New Zealand was the first country to give all women the right to vote in 1893.",
+      "There are more sheep than people in New Zealand — about 6 sheep per person.",
+      "New Zealand has no native land mammals (except bats) — it was dominated by birds before human arrival.",
+      "The Lord of the Rings and The Hobbit trilogies were filmed entirely in New Zealand.",
+      "New Zealand is one of the last major landmasses settled by humans — around 1250-1300 AD."
+    ]
+  },
+  "OM": {
+    "name": "Oman",
+    "capital": "Muscat",
+    "population": "4.5M",
+    "continent": "Asia",
+    "languages": [
+      "Arabic"
+    ],
+    "currency": "Rial (OMR)",
+    "flag": "🇴🇲",
+    "facts": [
+      "Oman's frankincense trade dates back thousands of years and the trees grow in the Dhofar region.",
+      "The Sultan Qaboos Grand Mosque has the second-largest hand-woven carpet in the world.",
+      "Oman is one of the oldest inhabited regions in the Arabian Peninsula.",
+      "The country has dramatic landscapes from desert dunes to green mountain wadis.",
+      "Oman was one of the first Arab countries to allow women to vote."
+    ]
+  },
+  "PA": {
+    "name": "Panama",
+    "capital": "Panama City",
+    "population": "4.4M",
+    "continent": "North America",
+    "languages": [
+      "Spanish"
+    ],
+    "currency": "Balboa (PAB)",
+    "flag": "🇵🇦",
+    "facts": [
+      "The Panama Canal connects the Atlantic and Pacific Oceans and handles about 5% of global trade.",
+      "Panama is the only place in the world where you can see the sun rise on the Pacific and set on the Atlantic.",
+      "Panama City has the only rainforest within a capital city's limits — Metropolitan Natural Park.",
+      "The Panama hat actually originated in Ecuador.",
+      "Panama was the first Latin American country to adopt the US dollar as legal tender."
+    ]
+  },
+  "PE": {
+    "name": "Peru",
+    "capital": "Lima",
+    "population": "34M",
+    "continent": "South America",
+    "languages": [
+      "Spanish",
+      "Quechua"
+    ],
+    "currency": "Sol (PEN)",
+    "flag": "🇵🇪",
+    "facts": [
+      "Machu Picchu, the ancient Inca city, is one of the New Seven Wonders of the World.",
+      "Peru has 90 different microclimates, making it one of the most diverse countries on Earth.",
+      "The potato originated in Peru — there are over 3,000 varieties grown there.",
+      "Lake Titicaca, shared with Bolivia, is the highest navigable lake in the world.",
+      "The Nazca Lines in Peru are ancient geoglyphs visible only from the air."
+    ]
+  },
+  "PG": {
+    "name": "Papua New Guinea",
+    "capital": "Port Moresby",
+    "population": "10M",
+    "continent": "Oceania",
+    "languages": [
+      "English",
+      "Tok Pisin",
+      "Hiri Motu"
+    ],
+    "currency": "Kina (PGK)",
+    "flag": "🇵🇬",
+    "facts": [
+      "Papua New Guinea has over 850 languages — more than any other country in the world.",
+      "The island of New Guinea is the second-largest island in the world after Greenland.",
+      "Many tribes in PNG's highlands had no contact with the outside world until the 20th century.",
+      "Birds of paradise, found in PNG, are among the most spectacular birds on Earth.",
+      "PNG has one of the largest areas of intact tropical rainforest outside the Amazon and Congo."
+    ]
+  },
+  "PH": {
+    "name": "Philippines",
+    "capital": "Manila",
+    "population": "115M",
+    "continent": "Asia",
+    "languages": [
+      "Filipino",
+      "English"
+    ],
+    "currency": "Peso (PHP)",
+    "flag": "🇵🇭",
+    "facts": [
+      "The Philippines is made up of 7,641 islands.",
+      "The Philippines is the texting capital of the world — Filipinos send billions of texts monthly.",
+      "Jeepneys, colorfully decorated former military jeeps, are the most popular form of public transportation.",
+      "The Chocolate Hills of Bohol are over 1,200 cone-shaped hills that turn brown in dry season.",
+      "The Philippines has the longest Christmas celebration in the world — starting in September."
+    ]
+  },
+  "PK": {
+    "name": "Pakistan",
+    "capital": "Islamabad",
+    "population": "231M",
+    "continent": "Asia",
+    "languages": [
+      "Urdu",
+      "English"
+    ],
+    "currency": "Rupee (PKR)",
+    "flag": "🇵🇰",
+    "facts": [
+      "Pakistan has the world's second-highest mountain — K2 at 8,611 meters.",
+      "The ancient Indus Valley civilization, one of the world's oldest, was in modern Pakistan.",
+      "Pakistan's Karakoram Highway is one of the highest paved international roads in the world.",
+      "Pakistan is the world's fourth-largest producer of cotton.",
+      "The national sport of Pakistan is field hockey, in which they have won multiple Olympic medals."
+    ]
+  },
+  "PL": {
+    "name": "Poland",
+    "capital": "Warsaw",
+    "population": "37M",
+    "continent": "Europe",
+    "languages": [
+      "Polish"
+    ],
+    "currency": "Zloty (PLN)",
+    "flag": "🇵🇱",
+    "facts": [
+      "Marie Curie, the first woman to win a Nobel Prize, was born in Poland.",
+      "Poland's Białowieża Forest is one of the last and largest primeval forests in Europe.",
+      "The Polish constitution of 1791 was the first modern constitution in Europe.",
+      "Kraków's St. Mary's Basilica plays a trumpet call every hour that stops mid-note — commemorating a 13th-century watchman shot by invaders.",
+      "Poland is the world's largest exporter of amber."
+    ]
+  },
+  "PS": {
+    "name": "Palestine",
+    "capital": "Ramallah",
+    "population": "5.4M",
+    "continent": "Asia",
+    "languages": [
+      "Arabic"
+    ],
+    "currency": "Israeli Shekel (ILS)",
+    "flag": "🇵🇸",
+    "facts": [
+      "Palestine is a UN observer state, recognized by over 140 countries.",
+      "The Old City of Jerusalem and Bethlehem's Church of the Nativity are UNESCO World Heritage Sites in Palestine.",
+      "Jericho in the West Bank is one of the oldest continuously inhabited cities in the world.",
+      "Palestinian embroidery (tatreez) is a centuries-old art form recognized by UNESCO.",
+      "The Dead Sea, bordering Palestine, is the lowest point on Earth."
+    ]
+  },
+  "PT": {
+    "name": "Portugal",
+    "capital": "Lisbon",
+    "population": "10.3M",
+    "continent": "Europe",
+    "languages": [
+      "Portuguese"
+    ],
+    "currency": "Euro (EUR)",
+    "flag": "🇵🇹",
+    "facts": [
+      "Portugal is the oldest nation-state in Europe, with borders largely unchanged since 1249.",
+      "The Portuguese Empire was the first global empire and the longest-lasting European colonial empire.",
+      "Portugal decriminalized all drugs in 2001 and saw drug abuse rates drop significantly.",
+      "Lisbon is older than Rome — it's one of the oldest cities in Western Europe.",
+      "Portugal's Vasco da Gama Bridge is the longest bridge in Europe at 12.3 km."
+    ]
+  },
+  "PW": {
+    "name": "Palau",
+    "capital": "Ngerulmud",
+    "population": "18K",
+    "continent": "Oceania",
+    "languages": [
+      "Palauan",
+      "English"
+    ],
+    "currency": "US Dollar (USD)",
+    "flag": "🇵🇼",
+    "facts": [
+      "Palau has some of the most pristine marine environments in the world.",
+      "Jellyfish Lake in Palau contains millions of golden jellyfish that have lost their sting.",
+      "Palau created one of the world's first shark sanctuaries in 2009.",
+      "The Rock Islands Southern Lagoon is a UNESCO World Heritage Site.",
+      "Palau's passport contains a pledge to protect the environment that visitors must sign."
+    ]
+  },
+  "PY": {
+    "name": "Paraguay",
+    "capital": "Asunción",
+    "population": "7.4M",
+    "continent": "South America",
+    "languages": [
+      "Spanish",
+      "Guarani"
+    ],
+    "currency": "Guarani (PYG)",
+    "flag": "🇵🇾",
+    "facts": [
+      "Paraguay is one of only two landlocked countries in South America (with Bolivia).",
+      "Paraguay's flag has different emblems on each side — the only national flag with this feature.",
+      "The Itaipu Dam on the Paraguay-Brazil border is one of the largest hydroelectric plants in the world.",
+      "Guarani is co-official with Spanish, making Paraguay one of the few bilingual nations by law.",
+      "The Chaco region covers 60% of Paraguay but has less than 2% of the population."
+    ]
+  },
+  "QA": {
+    "name": "Qatar",
+    "capital": "Doha",
+    "population": "2.7M",
+    "continent": "Asia",
+    "languages": [
+      "Arabic"
+    ],
+    "currency": "Riyal (QAR)",
+    "flag": "🇶🇦",
+    "facts": [
+      "Qatar has the highest GDP per capita in the world, driven by natural gas and oil.",
+      "Qatar hosted the 2022 FIFA World Cup — the first Middle Eastern country to do so.",
+      "Al Jazeera, one of the world's largest news networks, is headquartered in Qatar.",
+      "Qatar's flag is the only national flag with a width more than twice its height.",
+      "The Pearl-Qatar is an artificial island with luxury residences and shopping."
+    ]
+  },
+  "RO": {
+    "name": "Romania",
+    "capital": "Bucharest",
+    "population": "19M",
+    "continent": "Europe",
+    "languages": [
+      "Romanian"
+    ],
+    "currency": "Leu (RON)",
+    "flag": "🇷🇴",
+    "facts": [
+      "Bram Stoker's Dracula was inspired by Vlad the Impaler, a Romanian prince.",
+      "Romania's Palace of the Parliament is the heaviest building in the world.",
+      "The Danube Delta in Romania is Europe's largest wetland and a UNESCO Biosphere Reserve.",
+      "Romania is home to Europe's largest population of brown bears.",
+      "Romanian is the closest living language to Latin."
+    ]
+  },
+  "RS": {
+    "name": "Serbia",
+    "capital": "Belgrade",
+    "population": "6.6M",
+    "continent": "Europe",
+    "languages": [
+      "Serbian"
+    ],
+    "currency": "Dinar (RSD)",
+    "flag": "🇷🇸",
+    "facts": [
+      "Belgrade is one of the oldest continuously inhabited cities in Europe.",
+      "Nikola Tesla, the famous inventor, was an ethnic Serb born in modern-day Croatia.",
+      "Serbia is one of the largest exporters of raspberries in the world.",
+      "The Danube River flows through Serbia, including the dramatic Iron Gates gorge.",
+      "Serbia's Đavolja Varoš (Devil's Town) features eerie rock formations created by erosion."
+    ]
+  },
+  "RU": {
+    "name": "Russia",
+    "capital": "Moscow",
+    "population": "144M",
+    "continent": "Europe/Asia",
+    "languages": [
+      "Russian"
+    ],
+    "currency": "Ruble (RUB)",
+    "flag": "🇷🇺",
+    "facts": [
+      "Russia is the largest country in the world, spanning 11 time zones.",
+      "Lake Baikal in Russia holds 20% of the world's unfrozen freshwater.",
+      "The Moscow Metro is famous for its palatial stations with chandeliers, mosaics, and marble.",
+      "Russia sent the first human (Yuri Gagarin) and the first satellite (Sputnik) into space.",
+      "The Trans-Siberian Railway is the longest railway line in the world at 9,289 km."
+    ]
+  },
+  "RW": {
+    "name": "Rwanda",
+    "capital": "Kigali",
+    "population": "14M",
+    "continent": "Africa",
+    "languages": [
+      "Kinyarwanda",
+      "French",
+      "English"
+    ],
+    "currency": "Franc (RWF)",
+    "flag": "🇷🇼",
+    "facts": [
+      "Rwanda is known as the 'Land of a Thousand Hills' for its stunning hilly landscape.",
+      "Kigali is considered one of the cleanest cities in Africa.",
+      "Rwanda has the highest percentage of women in parliament of any country in the world.",
+      "Mountain gorillas in Volcanoes National Park are one of Rwanda's biggest attractions.",
+      "Rwanda banned single-use plastic bags in 2008, one of the first countries to do so."
+    ]
+  },
+  "SA": {
+    "name": "Saudi Arabia",
+    "capital": "Riyadh",
+    "population": "36M",
+    "continent": "Asia",
+    "languages": [
+      "Arabic"
+    ],
+    "currency": "Riyal (SAR)",
+    "flag": "🇸🇦",
+    "facts": [
+      "Saudi Arabia has no permanent rivers — it's the largest country in the world without one.",
+      "Saudi Arabia is home to Mecca and Medina, the two holiest cities in Islam.",
+      "The country has the world's largest sand desert — the Rub' al Khali (Empty Quarter).",
+      "Saudi Arabia allowed women to drive starting in 2018.",
+      "The country holds about 16% of the world's proven petroleum reserves."
+    ]
+  },
+  "SB": {
+    "name": "Solomon Islands",
+    "capital": "Honiara",
+    "population": "720K",
+    "continent": "Oceania",
+    "languages": [
+      "English"
+    ],
+    "currency": "Dollar (SBD)",
+    "flag": "🇸🇧",
+    "facts": [
+      "The Solomon Islands were a major battleground in World War II, especially during the Battle of Guadalcanal.",
+      "The country has over 900 islands and some of the most biodiverse marine environments on Earth.",
+      "Many islanders still use shell money for traditional ceremonies.",
+      "Kennedy Island is named after JFK, whose PT-109 boat was sunk nearby in WWII.",
+      "The Solomon Islands have some of the last uncontacted tribes in the Pacific."
+    ]
+  },
+  "SC": {
+    "name": "Seychelles",
+    "capital": "Victoria",
+    "population": "100K",
+    "continent": "Africa",
+    "languages": [
+      "Seychellois Creole",
+      "English",
+      "French"
+    ],
+    "currency": "Rupee (SCR)",
+    "flag": "🇸🇨",
+    "facts": [
+      "The Seychelles is the smallest country in Africa by population.",
+      "The coco de mer palm produces the world's largest seed, weighing up to 25 kg.",
+      "Aldabra Atoll is a UNESCO World Heritage Site home to over 100,000 giant tortoises.",
+      "The Seychelles has the highest human development index in Africa.",
+      "The islands' granite formations make them some of the oldest oceanic islands on Earth."
+    ]
+  },
+  "SD": {
+    "name": "Sudan",
+    "capital": "Khartoum",
+    "population": "47M",
+    "continent": "Africa",
+    "languages": [
+      "Arabic",
+      "English"
+    ],
+    "currency": "Pound (SDG)",
+    "flag": "🇸🇩",
+    "facts": [
+      "Sudan has more pyramids than Egypt — over 200 ancient Nubian pyramids at Meroë.",
+      "The Blue and White Nile rivers merge at Khartoum.",
+      "Sudan was the largest country in Africa before South Sudan's independence in 2011.",
+      "The ancient Kingdom of Kush in northern Sudan rivaled Egypt in power and wealth.",
+      "Suakin on the Red Sea coast has ruins of a once-thriving coral-block city."
+    ]
+  },
+  "SE": {
+    "name": "Sweden",
+    "capital": "Stockholm",
+    "population": "10.5M",
+    "continent": "Europe",
+    "languages": [
+      "Swedish"
+    ],
+    "currency": "Krona (SEK)",
+    "flag": "🇸🇪",
+    "facts": [
+      "Sweden hasn't been at war since 1814 — the longest period of peace for any European nation.",
+      "IKEA, Spotify, and Minecraft were all created in Sweden.",
+      "Sweden recycles so well it has to import garbage from other countries to fuel its waste-to-energy plants.",
+      "The Nobel Prizes (except Peace) are awarded in Stockholm.",
+      "Sweden has the right of public access ('Allemansrätten') allowing anyone to roam freely in nature."
+    ]
+  },
+  "SG": {
+    "name": "Singapore",
+    "capital": "Singapore",
+    "population": "5.9M",
+    "continent": "Asia",
+    "languages": [
+      "English",
+      "Malay",
+      "Mandarin",
+      "Tamil"
+    ],
+    "currency": "Dollar (SGD)",
+    "flag": "🇸🇬",
+    "facts": [
+      "Singapore is both a city and a country — one of only three city-states in the world.",
+      "Chewing gum has been banned in Singapore since 1992.",
+      "Singapore's Changi Airport has been voted the world's best airport for years running.",
+      "Despite its small size, Singapore is one of the world's busiest ports.",
+      "Singapore has four official languages: English, Malay, Mandarin, and Tamil."
+    ]
+  },
+  "SI": {
+    "name": "Slovenia",
+    "capital": "Ljubljana",
+    "population": "2.1M",
+    "continent": "Europe",
+    "languages": [
+      "Slovenian"
+    ],
+    "currency": "Euro (EUR)",
+    "flag": "🇸🇮",
+    "facts": [
+      "Slovenia has the third-highest forest coverage in Europe at nearly 60%.",
+      "Lake Bled, with its island church and cliffside castle, is one of Europe's most photographed places.",
+      "Slovenia became the first former communist country to host the G20 summit.",
+      "Postojna Cave has a unique cave-dwelling creature called the 'human fish' (olm).",
+      "Melania Trump, former US First Lady, was born in Slovenia."
+    ]
+  },
+  "SK": {
+    "name": "Slovakia",
+    "capital": "Bratislava",
+    "population": "5.4M",
+    "continent": "Europe",
+    "languages": [
+      "Slovak"
+    ],
+    "currency": "Euro (EUR)",
+    "flag": "🇸🇰",
+    "facts": [
+      "Slovakia has more castles and châteaux per capita than any other country — over 180.",
+      "Bratislava is the only capital in the world that borders two other countries (Austria and Hungary).",
+      "The Demänovská Cave of Liberty is one of the longest caves in Europe.",
+      "Slovakia and Czechia peacefully split into two countries in 1993 — the 'Velvet Divorce.'",
+      "Andy Warhol's parents were from Slovakia."
+    ]
+  },
+  "SL": {
+    "name": "Sierra Leone",
+    "capital": "Freetown",
+    "population": "8.4M",
+    "continent": "Africa",
+    "languages": [
+      "English"
+    ],
+    "currency": "Leone (SLE)",
+    "flag": "🇸🇱",
+    "facts": [
+      "Sierra Leone means 'Lion Mountains,' named by Portuguese explorers.",
+      "Freetown was founded in 1792 as a home for freed slaves from Britain and the Americas.",
+      "The country is one of the world's major producers of diamonds.",
+      "Sierra Leone has some of the most beautiful beaches in West Africa.",
+      "The cotton tree in Freetown, over 500 years old, is a national symbol."
+    ]
+  },
+  "SM": {
+    "name": "San Marino",
+    "capital": "San Marino",
+    "population": "34K",
+    "continent": "Europe",
+    "languages": [
+      "Italian"
+    ],
+    "currency": "Euro (EUR)",
+    "flag": "🇸🇲",
+    "facts": [
+      "San Marino claims to be the oldest republic in the world, founded in 301 AD.",
+      "San Marino is entirely surrounded by Italy and is one of the smallest countries in Europe.",
+      "The country has more vehicles than people.",
+      "San Marino's Three Towers on Monte Titano are the national symbol and a UNESCO World Heritage Site.",
+      "San Marino has one of the lowest unemployment rates in Europe."
+    ]
+  },
+  "SN": {
+    "name": "Senegal",
+    "capital": "Dakar",
+    "population": "18M",
+    "continent": "Africa",
+    "languages": [
+      "French"
+    ],
+    "currency": "CFA Franc (XOF)",
+    "flag": "🇸🇳",
+    "facts": [
+      "Senegal is known as the 'Gateway to Africa' due to its westernmost location on the continent.",
+      "Dakar was the finishing point of the famous Paris-Dakar Rally for decades.",
+      "Senegal's Lac Rose (Pink Lake) has waters that turn bright pink due to algae.",
+      "Teranga, meaning 'hospitality,' is a core cultural value in Senegal.",
+      "Senegal has never had a military coup, making it one of Africa's most stable democracies."
+    ]
+  },
+  "SO": {
+    "name": "Somalia",
+    "capital": "Mogadishu",
+    "population": "18M",
+    "continent": "Africa",
+    "languages": [
+      "Somali",
+      "Arabic"
+    ],
+    "currency": "Shilling (SOS)",
+    "flag": "🇸🇴",
+    "facts": [
+      "Somalia has the longest coastline in mainland Africa at over 3,000 km.",
+      "Camel milk is a staple food — Somalia has more camels than any other country.",
+      "The ancient port city of Mogadishu was once a major Indian Ocean trading hub.",
+      "Somali is one of the few African languages with its own written script (since 1972).",
+      "Laas Geel in Somalia has some of the earliest known rock art in Africa, dating back 5,000 years."
+    ]
+  },
+  "SR": {
+    "name": "Suriname",
+    "capital": "Paramaribo",
+    "population": "620K",
+    "continent": "South America",
+    "languages": [
+      "Dutch"
+    ],
+    "currency": "Dollar (SRD)",
+    "flag": "🇸🇷",
+    "facts": [
+      "Suriname is the smallest country in South America.",
+      "Dutch is the official language — the only country in South America where Dutch is spoken.",
+      "Over 90% of Suriname is covered by tropical rainforest.",
+      "Paramaribo's historic inner city is a UNESCO World Heritage Site.",
+      "Suriname is one of the most ethnically diverse countries in the world."
+    ]
+  },
+  "SS": {
+    "name": "South Sudan",
+    "capital": "Juba",
+    "population": "11M",
+    "continent": "Africa",
+    "languages": [
+      "English"
+    ],
+    "currency": "Pound (SSP)",
+    "flag": "🇸🇸",
+    "facts": [
+      "South Sudan is the world's newest country, gaining independence from Sudan in 2011.",
+      "The Sudd is one of the largest wetlands in the world, fed by the White Nile.",
+      "South Sudan has the largest annual land mammal migration — over a million white-eared kob.",
+      "Oil accounts for nearly all of South Sudan's export revenue.",
+      "The country has over 60 different ethnic groups and languages."
+    ]
+  },
+  "ST": {
+    "name": "São Tomé and Príncipe",
+    "capital": "São Tomé",
+    "population": "225K",
+    "continent": "Africa",
+    "languages": [
+      "Portuguese"
+    ],
+    "currency": "Dobra (STN)",
+    "flag": "🇸🇹",
+    "facts": [
+      "São Tomé and Príncipe is the smallest Portuguese-speaking country in the world.",
+      "The islands sit on the equator in the Gulf of Guinea.",
+      "São Tomé was once the world's largest producer of sugar in the 16th century.",
+      "Pico Cão Grande is a dramatic volcanic plug that rises 370 meters from the jungle floor.",
+      "The islands were uninhabited until Portuguese arrival in the 15th century."
+    ]
+  },
+  "SV": {
+    "name": "El Salvador",
+    "capital": "San Salvador",
+    "population": "6.3M",
+    "continent": "North America",
+    "languages": [
+      "Spanish"
+    ],
+    "currency": "US Dollar (USD)",
+    "flag": "🇸🇻",
+    "facts": [
+      "El Salvador is the smallest and most densely populated country in Central America.",
+      "El Salvador became the first country to adopt Bitcoin as legal tender in 2021.",
+      "The country has over 20 volcanoes, including the active Izalco volcano once called 'Lighthouse of the Pacific.'",
+      "El Salvador's name means 'The Savior' in Spanish.",
+      "Pupusas, thick corn tortillas filled with cheese and beans, are the national dish."
+    ]
+  },
+  "SY": {
+    "name": "Syria",
+    "capital": "Damascus",
+    "population": "22M",
+    "continent": "Asia",
+    "languages": [
+      "Arabic"
+    ],
+    "currency": "Pound (SYP)",
+    "flag": "🇸🇾",
+    "facts": [
+      "Damascus is one of the oldest continuously inhabited cities in the world.",
+      "Syria is home to some of the earliest evidence of agriculture, dating back 10,000 years.",
+      "The ancient city of Palmyra was a major trading center on the Silk Road.",
+      "Aleppo's souq (market) was one of the largest covered markets in the world.",
+      "Syria has six UNESCO World Heritage Sites, including the Ancient City of Damascus."
+    ]
+  },
+  "SZ": {
+    "name": "Eswatini",
+    "capital": "Mbabane",
+    "population": "1.2M",
+    "continent": "Africa",
+    "languages": [
+      "Swazi",
+      "English"
+    ],
+    "currency": "Lilangeni (SZL)",
+    "flag": "🇸🇿",
+    "facts": [
+      "Eswatini (formerly Swaziland) is one of the last absolute monarchies in the world.",
+      "The annual Reed Dance ceremony involves tens of thousands of young women.",
+      "Eswatini is one of the smallest countries in Africa.",
+      "The country changed its name from Swaziland to Eswatini in 2018.",
+      "Eswatini is almost entirely surrounded by South Africa, with a small border with Mozambique."
+    ]
+  },
+  "TD": {
+    "name": "Chad",
+    "capital": "N'Djamena",
+    "population": "17M",
+    "continent": "Africa",
+    "languages": [
+      "French",
+      "Arabic"
+    ],
+    "currency": "CFA Franc (XAF)",
+    "flag": "🇹🇩",
+    "facts": [
+      "Lake Chad was once one of the largest lakes in Africa but has shrunk by 90% since the 1960s.",
+      "Chad is named after Lake Chad, which means 'large expanse of water' in a local language.",
+      "The Ennedi Plateau in Chad has dramatic sandstone arches and ancient rock art.",
+      "Chad's flag is almost identical to Romania's flag, differing only in a slightly darker shade of blue.",
+      "The Sahara Desert covers the northern third of Chad."
+    ]
+  },
+  "TG": {
+    "name": "Togo",
+    "capital": "Lomé",
+    "population": "8.8M",
+    "continent": "Africa",
+    "languages": [
+      "French"
+    ],
+    "currency": "CFA Franc (XOF)",
+    "flag": "🇹🇬",
+    "facts": [
+      "Togo is one of the smallest countries in Africa, shaped like a narrow strip.",
+      "The Tamberma Valley's fortified mud houses (Batammariba) are a UNESCO World Heritage Site.",
+      "Togo was a German colony before becoming French after World War I.",
+      "Lomé's Grand Marché is one of the largest markets in West Africa, run primarily by women.",
+      "Togo is one of the world's largest producers of phosphate."
+    ]
+  },
+  "TH": {
+    "name": "Thailand",
+    "capital": "Bangkok",
+    "population": "72M",
+    "continent": "Asia",
+    "languages": [
+      "Thai"
+    ],
+    "currency": "Baht (THB)",
+    "flag": "🇹🇭",
+    "facts": [
+      "Thailand is the only Southeast Asian country never colonized by a European power.",
+      "Bangkok's full ceremonial name is 168 characters long — the longest city name in the world.",
+      "Thailand was known as Siam until 1939.",
+      "Muay Thai (Thai boxing) is the national sport and a major cultural tradition.",
+      "Thailand is the world's largest exporter of rice."
+    ]
+  },
+  "TJ": {
+    "name": "Tajikistan",
+    "capital": "Dushanbe",
+    "population": "10M",
+    "continent": "Asia",
+    "languages": [
+      "Tajik"
+    ],
+    "currency": "Somoni (TJS)",
+    "flag": "🇹🇯",
+    "facts": [
+      "Over 90% of Tajikistan is mountainous, including peaks above 7,000 meters.",
+      "The Pamir Highway is one of the highest and most remote roads in the world.",
+      "Ismoil Somoni Peak at 7,495 meters is the highest point in Central Asia.",
+      "Tajikistan produces nearly all of its electricity from hydropower.",
+      "The Fann Mountains have turquoise lakes considered among the most beautiful in Central Asia."
+    ]
+  },
+  "TL": {
+    "name": "Timor-Leste",
+    "capital": "Dili",
+    "population": "1.3M",
+    "continent": "Asia",
+    "languages": [
+      "Portuguese",
+      "Tetum"
+    ],
+    "currency": "US Dollar (USD)",
+    "flag": "🇹🇱",
+    "facts": [
+      "Timor-Leste (East Timor) is one of the youngest countries in the world, gaining independence in 2002.",
+      "The country occupies the eastern half of the island of Timor in Southeast Asia.",
+      "Ataúro Island off the coast has some of the highest marine biodiversity in the world.",
+      "Coffee is the main export, with the Arabica variety grown in highland areas.",
+      "Timor-Leste was under Portuguese rule for over 400 years before Indonesian occupation in 1975."
+    ]
+  },
+  "TM": {
+    "name": "Turkmenistan",
+    "capital": "Ashgabat",
+    "population": "6.3M",
+    "continent": "Asia",
+    "languages": [
+      "Turkmen"
+    ],
+    "currency": "Manat (TMT)",
+    "flag": "🇹🇲",
+    "facts": [
+      "The Darvaza Gas Crater, called the 'Door to Hell,' has been burning since 1971.",
+      "Ashgabat holds the Guinness Record for the most marble-clad buildings in the world.",
+      "Turkmenistan has the fourth-largest natural gas reserves in the world.",
+      "The country's Akhal-Teke horse breed is known as the 'golden horse' and is a national symbol.",
+      "Turkmenistan is one of the most closed and isolated countries in the world."
+    ]
+  },
+  "TN": {
+    "name": "Tunisia",
+    "capital": "Tunis",
+    "population": "12M",
+    "continent": "Africa",
+    "languages": [
+      "Arabic"
+    ],
+    "currency": "Dinar (TND)",
+    "flag": "🇹🇳",
+    "facts": [
+      "The ancient city of Carthage, near Tunis, was once the rival of Rome.",
+      "Star Wars scenes for Tatooine were filmed in southern Tunisia — the planet's name comes from the Tunisian town Tataouine.",
+      "Tunisia was the birthplace of the Arab Spring in 2010-2011.",
+      "The Bardo Museum in Tunis has the world's largest collection of Roman mosaics.",
+      "Tunisia has the oldest synagogue in Africa — the El Ghriba synagogue on Djerba island."
+    ]
+  },
+  "TO": {
+    "name": "Tonga",
+    "capital": "Nukuʻalofa",
+    "population": "107K",
+    "continent": "Oceania",
+    "languages": [
+      "Tongan",
+      "English"
+    ],
+    "currency": "Pa'anga (TOP)",
+    "flag": "🇹🇴",
+    "facts": [
+      "Tonga is the only remaining monarchy in the Pacific Islands.",
+      "Tonga was never formally colonized by a European power.",
+      "The Tongan language has one of the smallest alphabets in the world with just 17 letters.",
+      "Humpback whales migrate to Tonga's waters each year to breed and give birth.",
+      "The 2022 Hunga Tonga volcanic eruption was one of the most powerful in modern history."
+    ]
+  },
+  "TR": {
+    "name": "Turkey",
+    "capital": "Ankara",
+    "population": "85M",
+    "continent": "Europe/Asia",
+    "languages": [
+      "Turkish"
+    ],
+    "currency": "Lira (TRY)",
+    "flag": "🇹🇷",
+    "facts": [
+      "Istanbul is the only city in the world that spans two continents — Europe and Asia.",
+      "Turkey introduced coffee to Europe — the word 'coffee' comes from the Turkish 'kahve.'",
+      "The ancient city of Troy, from Homer's Iliad, was located in modern Turkey.",
+      "Turkey has more ancient Greek ruins than Greece itself.",
+      "Santa Claus (Saint Nicholas) was born in Patara, in modern-day Turkey."
+    ]
+  },
+  "TT": {
+    "name": "Trinidad and Tobago",
+    "capital": "Port of Spain",
+    "population": "1.4M",
+    "continent": "North America",
+    "languages": [
+      "English"
+    ],
+    "currency": "Dollar (TTD)",
+    "flag": "🇹🇹",
+    "facts": [
+      "Trinidad and Tobago is the birthplace of steel pan drums and calypso music.",
+      "Pitch Lake in Trinidad is the world's largest natural deposit of asphalt.",
+      "Trinidad Carnival is one of the biggest and most famous carnivals in the world.",
+      "The country has the third-highest GDP per capita in the Americas after the US and Canada.",
+      "Tobago is believed to be the inspiration for Robinson Crusoe's island."
+    ]
+  },
+  "TV": {
+    "name": "Tuvalu",
+    "capital": "Funafuti",
+    "population": "12K",
+    "continent": "Oceania",
+    "languages": [
+      "Tuvaluan",
+      "English"
+    ],
+    "currency": "Australian Dollar (AUD)",
+    "flag": "🇹🇻",
+    "facts": [
+      "Tuvalu is the fourth-smallest country in the world by land area.",
+      "The country earns millions from licensing its '.tv' internet domain.",
+      "Tuvalu's highest point is only 4.6 meters above sea level, making it extremely vulnerable to sea-level rise.",
+      "Tuvalu has no streams or rivers — freshwater comes from rainwater collection.",
+      "The total land area of Tuvalu is only about 26 square kilometers."
+    ]
+  },
+  "TZ": {
+    "name": "Tanzania",
+    "capital": "Dodoma",
+    "population": "65M",
+    "continent": "Africa",
+    "languages": [
+      "Swahili",
+      "English"
+    ],
+    "currency": "Shilling (TZS)",
+    "flag": "🇹🇿",
+    "facts": [
+      "Mount Kilimanjaro, the tallest mountain in Africa, is in Tanzania.",
+      "The Serengeti hosts the largest annual migration of animals on Earth.",
+      "Zanzibar, part of Tanzania, was once the world's leading clove producer.",
+      "Tanzania is home to the Olduvai Gorge, one of the most important paleoanthropological sites.",
+      "Tanzanite, a precious gemstone, is found only in Tanzania."
+    ]
+  },
+  "UA": {
+    "name": "Ukraine",
+    "capital": "Kyiv",
+    "population": "37M",
+    "continent": "Europe",
+    "languages": [
+      "Ukrainian"
+    ],
+    "currency": "Hryvnia (UAH)",
+    "flag": "🇺🇦",
+    "facts": [
+      "Ukraine is the largest country entirely within Europe.",
+      "Kyiv's metro system includes one of the deepest stations in the world — Arsenalna at 105.5 meters.",
+      "Ukraine's flag represents blue sky over golden wheat fields.",
+      "The Chernobyl exclusion zone has become an unintentional wildlife refuge.",
+      "Ukraine is one of the world's largest exporters of sunflower oil."
+    ]
+  },
+  "UG": {
+    "name": "Uganda",
+    "capital": "Kampala",
+    "population": "48M",
+    "continent": "Africa",
+    "languages": [
+      "English",
+      "Swahili"
+    ],
+    "currency": "Shilling (UGX)",
+    "flag": "🇺🇬",
+    "facts": [
+      "Uganda is home to half of the world's remaining mountain gorillas.",
+      "Lake Victoria, which borders Uganda, is the largest lake in Africa.",
+      "The source of the Nile River is at Jinja, Uganda.",
+      "Winston Churchill called Uganda 'the Pearl of Africa.'",
+      "Uganda has one of the youngest populations in the world with a median age of about 15."
+    ]
+  },
+  "US": {
+    "name": "United States",
+    "capital": "Washington, D.C.",
+    "population": "335M",
+    "continent": "North America",
+    "languages": [
+      "English"
+    ],
+    "currency": "Dollar (USD)",
+    "flag": "🇺🇸",
+    "facts": [
+      "The US has no official language at the federal level.",
+      "Alaska is simultaneously the most northern, western, and eastern state (the Aleutian Islands cross the 180° meridian).",
+      "The US interstate highway system requires that one mile in every five must be straight — allegedly to serve as emergency airstrips.",
+      "The Library of Congress is the largest library in the world with over 170 million items.",
+      "Yellowstone National Park sits on top of a supervolcano."
+    ]
+  },
+  "UY": {
+    "name": "Uruguay",
+    "capital": "Montevideo",
+    "population": "3.4M",
+    "continent": "South America",
+    "languages": [
+      "Spanish"
+    ],
+    "currency": "Peso (UYU)",
+    "flag": "🇺🇾",
+    "facts": [
+      "Uruguay hosted and won the first FIFA World Cup in 1930.",
+      "Uruguay was the first country in the world to fully legalize cannabis.",
+      "Nearly 95% of Uruguay's electricity comes from renewable sources.",
+      "Uruguay has more cattle than people — about 3.5 cows per person.",
+      "Uruguay is one of the most progressive countries in Latin America for LGBTQ+ rights."
+    ]
+  },
+  "UZ": {
+    "name": "Uzbekistan",
+    "capital": "Tashkent",
+    "population": "35M",
+    "continent": "Asia",
+    "languages": [
+      "Uzbek"
+    ],
+    "currency": "Som (UZS)",
+    "flag": "🇺🇿",
+    "facts": [
+      "Uzbekistan has some of the most stunning Silk Road architecture in the world, especially in Samarkand.",
+      "The Registan in Samarkand is considered one of the most beautiful public squares on Earth.",
+      "Uzbekistan is one of only two doubly landlocked countries in the world (with Liechtenstein).",
+      "The Aral Sea, once the fourth-largest lake in the world, has mostly dried up due to Soviet-era irrigation.",
+      "Tashkent's metro stations are decorated like palaces with marble and chandeliers."
+    ]
+  },
+  "VA": {
+    "name": "Vatican City",
+    "capital": "Vatican City",
+    "population": "800",
+    "continent": "Europe",
+    "languages": [
+      "Italian",
+      "Latin"
+    ],
+    "currency": "Euro (EUR)",
+    "flag": "🇻🇦",
+    "facts": [
+      "Vatican City is the smallest independent state in the world at just 0.44 square kilometers.",
+      "The Vatican has its own post office, radio station, and railway station.",
+      "St. Peter's Basilica is one of the largest churches in the world.",
+      "The Sistine Chapel ceiling, painted by Michelangelo, is one of the most famous artworks in history.",
+      "Vatican City has the highest crime rate per capita of any state — mostly petty theft by tourists."
+    ]
+  },
+  "VC": {
+    "name": "Saint Vincent and the Grenadines",
+    "capital": "Kingstown",
+    "population": "110K",
+    "continent": "North America",
+    "languages": [
+      "English"
+    ],
+    "currency": "East Caribbean Dollar (XCD)",
+    "flag": "🇻🇨",
+    "facts": [
+      "The Grenadines islands were filming locations for Pirates of the Caribbean.",
+      "La Soufrière volcano erupted in April 2021, forcing mass evacuations.",
+      "Saint Vincent and the Grenadines consists of 32 islands, only 9 of which are inhabited.",
+      "The Tobago Cays Marine Park has some of the best snorkeling in the Caribbean.",
+      "The country gained independence from Britain in 1979."
+    ]
+  },
+  "VE": {
+    "name": "Venezuela",
+    "capital": "Caracas",
+    "population": "28M",
+    "continent": "South America",
+    "languages": [
+      "Spanish"
+    ],
+    "currency": "Bolívar (VES)",
+    "flag": "🇻🇪",
+    "facts": [
+      "Angel Falls in Venezuela is the tallest uninterrupted waterfall in the world at 979 meters.",
+      "Venezuela has the largest proven oil reserves in the world.",
+      "Lightning strikes over Lake Maracaibo up to 300 nights per year — a phenomenon called Catatumbo Lightning.",
+      "Venezuela is named after Venice ('Little Venice') by European explorers.",
+      "Venezuela has won more international beauty pageant titles than almost any other country."
+    ]
+  },
+  "VN": {
+    "name": "Vietnam",
+    "capital": "Hanoi",
+    "population": "100M",
+    "continent": "Asia",
+    "languages": [
+      "Vietnamese"
+    ],
+    "currency": "Dong (VND)",
+    "flag": "🇻🇳",
+    "facts": [
+      "Vietnam is the world's largest exporter of cashews and second-largest coffee exporter.",
+      "Halong Bay has nearly 2,000 limestone islands and islets.",
+      "Vietnam has the world's largest cave — Sơn Đoòng — large enough to fit a 40-story skyscraper.",
+      "Motorbikes outnumber cars 20:1 in Vietnam.",
+      "Vietnamese is a tonal language with six different tones."
+    ]
+  },
+  "VU": {
+    "name": "Vanuatu",
+    "capital": "Port Vila",
+    "population": "320K",
+    "continent": "Oceania",
+    "languages": [
+      "Bislama",
+      "English",
+      "French"
+    ],
+    "currency": "Vatu (VUV)",
+    "flag": "🇻🇺",
+    "facts": [
+      "Vanuatu has the highest density of languages per capita in the world — over 100 languages for 320,000 people.",
+      "Land diving on Pentecost Island, where men jump from tall towers with vines tied to their ankles, inspired bungee jumping.",
+      "Mount Yasur on Tanna Island is one of the most accessible active volcanoes in the world.",
+      "Vanuatu is consistently ranked as one of the happiest countries by the Happy Planet Index.",
+      "Vanuatu has no income tax or wealth tax."
+    ]
+  },
+  "WS": {
+    "name": "Samoa",
+    "capital": "Apia",
+    "population": "220K",
+    "continent": "Oceania",
+    "languages": [
+      "Samoan",
+      "English"
+    ],
+    "currency": "Tala (WST)",
+    "flag": "🇼🇸",
+    "facts": [
+      "Samoa was the first Polynesian country to gain independence, in 1962.",
+      "Robert Louis Stevenson, author of Treasure Island, spent his last years in Samoa and is buried there.",
+      "In 2011, Samoa skipped an entire day (December 30) by switching to the west side of the International Date Line.",
+      "Traditional Samoan culture (fa'a Samoa) remains one of the strongest in the Pacific.",
+      "Samoan tattoo tradition (tatau) is the origin of the English word 'tattoo.'"
+    ]
+  },
+  "XK": {
+    "name": "Kosovo",
+    "capital": "Pristina",
+    "population": "1.8M",
+    "continent": "Europe",
+    "languages": [
+      "Albanian",
+      "Serbian"
+    ],
+    "currency": "Euro (EUR)",
+    "flag": "🇽🇰",
+    "facts": [
+      "Kosovo declared independence from Serbia in 2008 and is recognized by over 100 UN member states.",
+      "Kosovo has one of the youngest populations in Europe with a median age around 29.",
+      "The Visoki Dečani monastery is a UNESCO World Heritage Site.",
+      "Kosovo's Rugova Canyon is one of the longest canyons in Europe.",
+      "Pristina has a vibrant café culture with one of the highest cafés-per-capita in Europe."
+    ]
+  },
+  "YE": {
+    "name": "Yemen",
+    "capital": "Sana'a",
+    "population": "34M",
+    "continent": "Asia",
+    "languages": [
+      "Arabic"
+    ],
+    "currency": "Rial (YER)",
+    "flag": "🇾🇪",
+    "facts": [
+      "Yemen is home to the ancient city of Sana'a, a UNESCO World Heritage Site with distinctive multi-story mud buildings.",
+      "Socotra Island has landscapes so alien that it's been called the 'Galápagos of the Indian Ocean.'",
+      "Yemen was the first country in the Arabian Peninsula to grant women the right to vote.",
+      "Mocha, Yemen is the origin of the word 'mocha' — it was a major coffee-exporting port.",
+      "The Old Walled City of Shibam has been called 'the Manhattan of the desert' for its mud skyscrapers."
+    ]
+  },
+  "ZA": {
+    "name": "South Africa",
+    "capital": "Pretoria",
+    "population": "60M",
+    "continent": "Africa",
+    "languages": [
+      "Zulu",
+      "Xhosa",
+      "Afrikaans",
+      "English"
+    ],
+    "currency": "Rand (ZAR)",
+    "flag": "🇿🇦",
+    "facts": [
+      "South Africa has 11 official languages — more than almost any country.",
+      "South Africa is the only country to have voluntarily dismantled its nuclear weapons.",
+      "The first successful heart transplant was performed in Cape Town by Dr. Christiaan Barnard in 1967.",
+      "Table Mountain in Cape Town is one of the oldest mountains in the world — over 600 million years old.",
+      "South Africa has the third-largest biodiversity in the world."
+    ]
+  },
+  "ZM": {
+    "name": "Zambia",
+    "capital": "Lusaka",
+    "population": "20M",
+    "continent": "Africa",
+    "languages": [
+      "English"
+    ],
+    "currency": "Kwacha (ZMW)",
+    "flag": "🇿🇲",
+    "facts": [
+      "Victoria Falls, on Zambia's border with Zimbabwe, is one of the largest waterfalls in the world.",
+      "The local name for Victoria Falls is Mosi-oa-Tunya, meaning 'The Smoke That Thunders.'",
+      "Zambia has one of the largest copper deposits in the world, in the Copperbelt Province.",
+      "The country was named after the Zambezi River.",
+      "Zambia is home to the South Luangwa National Park, famous for walking safaris."
+    ]
+  },
+  "ZW": {
+    "name": "Zimbabwe",
+    "capital": "Harare",
+    "population": "16M",
+    "continent": "Africa",
+    "languages": [
+      "English",
+      "Shona",
+      "Ndebele"
+    ],
+    "currency": "Dollar (ZWL)",
+    "flag": "🇿🇼",
+    "facts": [
+      "Great Zimbabwe ruins gave the country its name — 'Zimbabwe' means 'houses of stone.'",
+      "Zimbabwe shares Victoria Falls with Zambia.",
+      "Zimbabwe experienced hyperinflation so extreme that it printed a 100-trillion-dollar note.",
+      "The country has the highest number of official languages in the world — 16.",
+      "Hwange National Park is one of Africa's largest game reserves, famous for its elephant herds."
+    ]
+  }
+}

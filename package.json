@@ -1,6 +1,6 @@
 {
   "name": "earth",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "Creating a 3D model of the Earth",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -9,10 +9,15 @@
   },
   "author": "David Okeah",
   "license": "MIT",
-  "dependencies": {
-    "three": "^0.158.0"
-  },
   "devDependencies": {
     "parcel": "^2.10.3"
+  },
+  "dependencies": {
+    "globe.gl": "^2.45.3",
+    "topojson-client": "^3.1.0"
+  },
+  "alias": {
+    "three/webgpu": "./node_modules/three/build/three.webgpu.js",
+    "three/tsl": "./node_modules/three/build/three.tsl.js"
   }
 }

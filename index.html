@@ -1,91 +1,54 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Earth</title>
     <link rel="icon" href="textures/earth-favicon-16.png" sizes="16x16" type="image/png">
     <link rel="icon" href="textures/earth-favicon-32.png" sizes="32x32" type="image/png">
-    <style>
-        body { margin: 0; }
-        canvas { display: block; }
-        button {
-            position: absolute;
-            top: 10px;
-            left: 10px;
-            z-index: 10;
-            padding: 10px;
-            border: none;
-            border-radius: 5px;
-            background-color: #4CAF50;
-            color: white;
-            font-size: 16px;
-            cursor: pointer;
-        }
-        #instructions {
-            display: none;
-            position: fixed;
-            top: 50%;
-            left: 50%;
-            transform: translate(-50%, -50%);
-            z-index: 100;
-            background-color: rgba(255, 255, 255, 0.8);
-            padding: 20px;
-            border-radius: 10px;
-            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-        }
-        #toggleRotation {
-            position: absolute;
-            top: 10px;
-            left: 10px;
-            z-index: 10;
-            padding: 10px;
-            border: none;
-            border-radius: 5px;
-            background-color: #4CAF50;
-            color: white;
-            font-size: 16px;
-            cursor: pointer;
-        }
-        #toggleNotice {
-            position: absolute;
-            bottom: 10px;
-            right: 10px;
-            background-color: rgba(0, 0, 0, 0.6);
-            color: white;
-            padding: 5px;
-            border-radius: 5px;
-            font-size: 12px;
-        }
-        button:hover {
-            background-color: #45a049;
-        }
-    </style>
+    <link rel="stylesheet" href="./css/styles.css">
 </head>
 <body>
-    <div id="instructions">
-        <h2>Navigation Instructions</h2>
-        <p>To interact with the 3D model, press the green "Toggle Rotation/Control" button first. This enables mouse controls for rotating and zooming.</p>
-        <p>Use your mouse to rotate the Earth and Moon after enabling controls.</p>
-        <p>Scroll to zoom in and out.</p>
-        <p>Press "Escape" to toggle these instructions.</p>
+    <!-- Loading -->
+    <div id="loading" class="loading-overlay">
+        <div class="loading-text">Loading Earth</div>
     </div>
 
-    <div id="toggleNotice">
-        Press "Escape" to toggle instructions
+    <!-- Globe -->
+    <div id="globe-container"></div>
+
+    <!-- Top Bar -->
+    <div class="top-bar">
+        <div class="app-title">Earth</div>
+        <div class="top-right">
+            <div id="user-clock" class="user-clock"></div>
+            <button id="btn-rotate" class="btn" title="Toggle auto-rotation">Rotate</button>
+        </div>
     </div>
 
-    <button id="toggleRotation">Toggle Rotation/Control</button>
+    <!-- Country Info Panel -->
+    <div id="info-panel" class="info-panel">
+        <div class="info-panel-header">
+            <h2><img id="info-flag" class="flag" alt="" /> <span id="info-name"></span></h2>
+            <button id="info-close" class="info-panel-close">&times;</button>
+        </div>
+        <div class="info-meta">
+            <div class="info-meta-item">Capital <span id="info-capital"></span></div>
+            <div class="info-meta-item">Population <span id="info-population"></span></div>
+            <div class="info-meta-item">Continent <span id="info-continent"></span></div>
+            <div class="info-meta-item">Languages <span id="info-languages"></span></div>
+            <div class="info-meta-item info-local-time">Local Time <span id="info-time"></span></div>
+        </div>
+        <div class="info-divider"></div>
+        <div class="info-fact-label">Random Fact</div>
+        <div id="info-fact-text" class="info-fact"></div>
+        <button id="btn-new-fact" class="btn-new-fact">Show Another Fact</button>
+    </div>
+
+    <!-- Hint -->
+    <div class="hint">Click a country to explore · Arrow keys to navigate · Space to pause · Esc to close</div>
 
     <script type="module" src="./js/script.js"></script>
-
-    <script>
-        document.addEventListener('keydown', function(event) {
-            if (event.key === "Escape" || event.key === "F1") {
-                event.preventDefault();
-                var instructions = document.getElementById('instructions');
-                instructions.style.display = instructions.style.display === 'none' ? 'block' : 'none';
-            }
-        });
-    </script>
     <script src="./js/metrics-tracking.js"></script>
 </body>
 </html>
